@@ -1,0 +1,501 @@
+Company ID,Contract ID,User Email,User ID,Company Name,Country,Subscription Tier,2020,2021,2022,2023
+C082,324e1769-5acc-4e9f-9d77-bfb6a8204b6d,carol46@hotmail.com,47eae859-37c0-41c7-a737-e4473132b986,Shaw Ltd,Japan,Tier 2,0,1,0,1
+C016,dd3e1f34-5346-4512-a49f-d4ec1feca19a,mossryan@hotmail.com,ac780c31-931e-4bfc-b8b6-1a2001ddafb7,"Cain, Mills and Wilkinson",United States Virgin Islands,Tier 3,0,0,0,1
+C094,d4c5cdbf-242c-4438-9ea3-c4dec7d1a289,christopher37@murphy.org,5b66c689-086f-496b-b3a8-f727e8341932,Davies-Robinson,Bouvet Island (Bouvetoya),Tier 2,1,0,1,1
+C054,7d1bae36-b3ee-48e8-a8d8-012e8c8413a6,adamscynthia@hotmail.com,801d1306-4ba1-4de5-b061-e907ee0a8ca9,"Hale, Duke and Young",Western Sahara,Tier 1,0,0,0,1
+C018,583d17e7-c6f3-4f53-af29-fb44ebe3d622,alex79@hotmail.com,dd75a424-aab3-45c9-80da-2f5245f27fc7,Jones-Hall,Kenya,Tier 3,1,0,0,1
+C069,61236293-bcf2-4ac9-bde1-be9b0231bacb,elizabeth32@hotmail.com,0259c8eb-a131-4c0b-9d2c-6969c8120e0a,Perez LLC,Botswana,Tier 3,0,1,1,0
+C071,94d46234-8e82-45f7-9f94-0e1d8e8be34b,mccartymichaela@yahoo.com,c42464c2-0bef-49ae-9db8-f55104942313,Miller LLC,Algeria,Tier 3,1,1,1,0
+C024,9efec0df-69e9-4298-afe4-36434e136126,jsweeney@meyer.org,57a7976a-d0aa-41ba-9fb8-59fb2a810b71,"Soto, Smith and Burns",El Salvador,Tier 3,1,0,1,1
+C017,d5021d87-493a-441c-b716-5f9af8bc75b1,richardking@yahoo.com,9a5d7c9b-c1b3-40a0-8ebe-d722412f370a,"Davies, Holt and Todd",Kyrgyz Republic,Tier 3,1,1,1,1
+C063,e3345259-1da5-4122-9cda-980c9d503ed6,matthew93@hotmail.com,d9682ea0-8d6d-42b5-b6a8-71646ec03306,Phillips PLC,New Caledonia,Tier 1,1,1,1,1
+C034,49d294ef-75b6-4818-8b66-fc8d835bc5a1,kgarcia@marshall-wright.com,5401175d-8aac-42a9-95be-02e36b2f0114,Williams-Gray,Azerbaijan,Tier 1,0,0,1,0
+C021,7d0e2fef-7e12-4fe4-82d3-d7ad3747dd48,duraneric@hanson.com,11d99900-da0a-4404-a882-3ba797fbb99c,Clark-Walker,Germany,Tier 1,1,1,1,1
+C066,7b82cf13-0561-4eed-95a2-5ab7ed4b53c8,smaldonado@morgan-graves.com,0fc3182d-c725-4fdc-8326-7f61065041bf,"Gonzalez, Benton and Thompson",Uruguay,Tier 3,1,1,1,0
+C030,0ae5cd24-07c5-4543-ab1e-3c93f135af73,antoniowilkins@estrada.com,a897162d-8e6d-495f-8b3f-abc8f9cc58c2,"Wood, Daniels and Choi",Slovenia,Tier 3,0,1,1,1
+C071,94d46234-8e82-45f7-9f94-0e1d8e8be34b,briannamartinez@ray-medina.com,478d6d55-1da1-48f3-a358-7880e592be95,Miller LLC,Algeria,Tier 3,1,1,1,1
+C035,69bbdc34-eda5-40fc-b436-bb1d3c44d09a,afreeman@gmail.com,708a0e47-4f35-458e-bd6e-1f6236d50b30,Martin and Sons,Burkina Faso,Tier 3,1,1,1,1
+C078,4351727c-f2d0-4c36-b995-c874ba305c98,lisa60@jones.biz,49151414-9b81-4a79-8425-85717d7880f6,Arnold-Vargas,Saint Barthelemy,Tier 2,1,1,1,1
+C028,0b233033-6267-4051-b804-17c31cd936a2,knightlisa@york.info,18b25fa1-730c-4a63-92a7-a0294a090280,Cross-Maldonado,Greece,Tier 3,1,1,1,1
+C062,987a74bd-df5f-4445-9dc9-d82607f973bd,jennifer28@yahoo.com,8186cf19-f5bf-405c-b30a-8f381a43e3ab,Moreno Ltd,Korea,Tier 1,1,1,1,1
+C056,ad4f14ee-f5f4-4801-9e55-2aa47efecb95,joshua02@gmail.com,2d491fe1-8457-4a06-9657-853bc730308a,Gonzales-Esparza,Tuvalu,Tier 2,0,0,1,1
+C065,2bbff622-f8db-4f68-9c5d-8887b6c426af,espinozadevon@murphy-hernandez.org,e312acb4-90f3-49dd-80ca-8d1c233904ab,"Davis, Foster and Gomez",French Southern Territories,Tier 2,1,1,1,1
+C080,3a683ad9-a1cd-4e1b-b8e5-8bfe569ddf8e,debbie55@jennings.com,79f4d526-2b65-42f4-87ee-0fccd220723c,Turner Group,Aruba,Tier 3,1,1,1,0
+C078,d7896fa8-be84-43c9-8577-c227a51a092f,dbrock@graham-reyes.com,d217fef4-ba2c-48a9-93d6-f527d0954835,Arnold-Vargas,Saint Barthelemy,Tier 2,0,0,0,1
+C052,5222cfcf-4599-4e75-b6fb-b1cfac63e55e,jonestiffany@hotmail.com,e850678a-3ada-44ff-af05-6910861606ae,"Small, Powers and Wright",Barbados,Tier 1,1,0,1,0
+C007,3ebe1050-421f-4baf-b370-09d4c8343c94,ellisalexandra@hotmail.com,8ec18173-dfb1-4498-964a-53386a958561,Powell Inc,Slovenia,Tier 1,0,0,1,0
+C036,d8d7ff6c-5bd0-40b8-b04c-aa3d71d09cc2,fgiles@gmail.com,a7f33478-95eb-4be1-bbac-aa12cc4bc8a7,Dudley-Rowland,Slovenia,Tier 2,1,1,1,1
+C024,577043c0-b6d6-4a2a-86a0-ce3cc68ddaeb,havila@perez-jenkins.com,4cd6bc97-8711-4591-b2ae-74d4ac59ec85,"Soto, Smith and Burns",El Salvador,Tier 3,1,1,0,1
+C010,615fbbcd-2f99-41f8-af29-9a5293bae087,pbates@yahoo.com,e14e9b68-8974-460b-95d0-4e6e0dd77315,Montgomery-Taylor,Montenegro,Tier 1,1,0,0,0
+C098,d116d805-94c5-4e74-ac57-a4039c02b9dd,fieldsmelanie@rivera-lowe.com,aa7a32b9-bafa-4f1b-b556-4ccb797b47f1,Day Inc,Niger,Tier 1,0,0,1,0
+C031,d9169632-7210-4620-8620-e4a99b0e4617,reidteresa@lynch.net,5ea83a30-14c7-4ec6-884e-9b22500da2b5,Gonzalez-Boyle,Ghana,Tier 1,1,1,1,1
+C019,03632f86-613f-4278-992f-826c66728261,brian17@gordon-jones.info,2b0ac3a6-2250-469d-b24f-e2aab72bb608,Tucker LLC,Andorra,Tier 2,0,1,1,1
+C030,0ae5cd24-07c5-4543-ab1e-3c93f135af73,kblevins@yahoo.com,cb0f2d38-4e1f-4abf-a1dc-fcf9aa558d41,"Wood, Daniels and Choi",Slovenia,Tier 3,0,1,0,0
+C058,79504f1c-b819-4566-b29e-13178c97547f,rbradshaw@hotmail.com,d8f8c486-cafa-4b19-a7d6-f3daefcf6632,Lane-Bennett,Jamaica,Tier 2,0,1,1,1
+C008,9300c0aa-eb22-4a76-a1a3-a2714c7efe2a,turnerjack@hotmail.com,c6776868-329a-4ed7-9dd2-249a2d89ef48,"Lang, Dodson and Hicks",Congo,Tier 2,1,1,1,1
+C066,7b82cf13-0561-4eed-95a2-5ab7ed4b53c8,ohowell@bradshaw.net,4f5b4717-734a-46fb-b47f-396b96a0fe8c,"Gonzalez, Benton and Thompson",Uruguay,Tier 3,0,0,1,0
+C098,d116d805-94c5-4e74-ac57-a4039c02b9dd,carolinedavis@hotmail.com,b84218f7-7c20-49de-94b0-36229edd9cd3,Day Inc,Niger,Tier 1,1,0,0,1
+C100,b8e31b8c-a794-467c-b170-b50b71efd8cf,howardshannon@gmail.com,af8651b2-d99e-48b1-bf87-b5aec3d2ee44,Pratt Group,Cocos (Keeling) Islands,Tier 3,1,0,1,1
+C035,1bfda3e3-42e3-4677-b861-9efe3f9d009b,dianamills@gmail.com,506eabd7-05eb-4ad9-94c6-8c85d756c324,Martin and Sons,Burkina Faso,Tier 2,0,1,0,1
+C028,a0f67fe4-ca44-467a-b26d-fe2ef187a2b9,yunderwood@yahoo.com,525461c3-ac62-469c-a429-5c8b37b3aea1,Cross-Maldonado,Greece,Tier 3,1,1,1,1
+C088,a9ee2a57-3398-40e2-8109-bfd2084e8925,zlewis@hill.net,75e03322-8d81-4464-be4f-6c1de4646159,Sanders Group,Niger,Tier 1,0,1,0,0
+C044,a938ef58-3a9e-4fa0-940a-50c66105bda9,david30@sims-tucker.com,08c57a6f-780e-479a-85be-13d3058cb498,Gonzales-Stewart,Finland,Tier 2,0,1,0,0
+C082,8407d6c4-b4c4-4a38-938e-b17842b6db78,todd27@gmail.com,6558f88f-5ab1-460e-bebc-e52dc34b938c,Shaw Ltd,Japan,Tier 3,1,0,1,1
+C042,769e1175-0d37-416c-b6b9-c7c859334777,richard07@schultz.com,2aa2bcdd-bd5d-417d-a700-f1433c4c7c28,Jarvis-Ingram,Suriname,Tier 2,1,0,0,0
+C071,94d46234-8e82-45f7-9f94-0e1d8e8be34b,taylorhawkins@yahoo.com,28474f73-3338-42c0-8631-36d3845c72f1,Miller LLC,Algeria,Tier 3,1,1,0,1
+C092,80521baa-be5f-4ec2-a54f-5a3ff7884b3d,jeffdavies@hotmail.com,5152f7e1-1825-4945-9643-bb5f521e6622,Roberson and Sons,Panama,Tier 3,0,1,0,0
+C091,d1a9bd32-2e50-49ea-abfe-75c572adb9fe,blee@gordon.com,49d330bb-1847-4691-83f0-5dce1bb69ef4,Dudley-Silva,Malaysia,Tier 3,0,1,0,0
+C017,10696440-f4c8-44fe-9363-86cbce231fae,cookdustin@moore.net,b297e749-90aa-4120-b04d-10f5c4b44f32,"Davies, Holt and Todd",Kyrgyz Republic,Tier 1,1,1,1,1
+C012,70cfdd83-8dc9-4504-bae4-16184bc1cafa,pjones@gmail.com,3e32c73e-92aa-4265-80b7-e3acd4324630,Sanchez-Bates,Mali,Tier 2,1,0,1,1
+C064,821852a9-53f6-4cd8-a418-8a21830362c8,vargasrobert@collins.com,d3ab1083-75b5-4220-a39a-83c3b1193253,"Freeman, Hunter and Ellison",Comoros,Tier 1,1,1,0,0
+C088,a9ee2a57-3398-40e2-8109-bfd2084e8925,boydmichael@hotmail.com,f1b42848-5421-4923-a886-50be473cee9e,Sanders Group,Niger,Tier 1,1,0,1,0
+C037,53a3c7d1-92a7-4450-bb5d-f1c3468c058c,nsantos@yahoo.com,87f81ad8-c533-4d70-9c55-91fbcf2a133a,"Nichols, Jimenez and Wells",Guyana,Tier 2,1,1,0,1
+C045,5348a6aa-a7cc-473f-95a0-f36396d4e4dc,james44@ortiz-waters.net,6af3e81f-41f1-4e8a-933a-8670fad215cb,"Grant, Garrett and Jimenez",Turks and Caicos Islands,Tier 3,1,1,1,1
+C083,e1513f7f-c6f6-4d1b-83d8-4ab9bfb708ae,williampowell@yahoo.com,5392b801-63b7-4c93-998c-1bdcf86d1d27,"Ramos, Thomas and Jackson",Saint Martin,Tier 3,1,1,1,1
+C093,0f71f6c6-dfd5-494d-b35e-161ba160547f,angela62@yahoo.com,0f7174f7-2e4b-4c40-9a0b-cd7eadb08ef8,"Valdez, Hoffman and Hess",Bulgaria,Tier 1,1,0,0,0
+C013,75a81885-34a2-40b7-a663-7d6f4e234775,vrhodes@johnson.org,c3821198-3d93-4a58-b841-f078cb4abf4b,"Mcmahon, Cabrera and Perez",Oman,Tier 3,0,0,0,0
+C082,ed84e892-2bf9-4a76-ab3b-2a2a9c6e73eb,valeriepage@long.net,8ca6cf21-f014-4658-994f-9b0b663ef875,Shaw Ltd,Japan,Tier 2,1,0,0,0
+C056,5f4037af-107d-4491-8bc3-fa153a9f172c,maynardmckenzie@rivas-mack.com,0876791a-556e-47e3-ad9d-e70815ff3444,Gonzales-Esparza,Tuvalu,Tier 3,1,0,1,1
+C017,d5021d87-493a-441c-b716-5f9af8bc75b1,donaldadams@yahoo.com,bb2b5eed-98f0-486f-abc5-53bc12251e65,"Davies, Holt and Todd",Kyrgyz Republic,Tier 3,0,1,1,0
+C041,c1d9a661-4a0d-45e9-8688-1603c630c97a,michellejames@gmail.com,dbd2703d-eaac-464a-af05-252dcccfaa6c,Nicholson-Williams,Ghana,Tier 3,1,1,0,1
+C033,e24eee99-f6ef-4c04-ad41-d3f337b49253,stokesdaniel@adams-dunlap.com,96d0f1ce-1cf3-4dcc-88d9-1bb7a74801e4,Phillips-Villa,Gibraltar,Tier 2,0,1,0,0
+C056,ad4f14ee-f5f4-4801-9e55-2aa47efecb95,victoria86@barnes.org,3f09727b-2850-4422-bbf6-a6386e0acd37,Gonzales-Esparza,Tuvalu,Tier 2,0,0,0,1
+C081,ea5f5d2b-43fb-47fc-b3d4-c2aa424e6643,kennethrocha@david.com,017c44d7-8d26-4593-9df0-acd868d1b1c0,Burke-May,Jamaica,Tier 1,0,1,1,1
+C094,e3875eff-a731-4713-8e1a-3f77785e4884,jeffrey22@santana-welch.net,a1eb8cd4-5e3d-4102-ab98-aa9473eb14a1,Davies-Robinson,Bouvet Island (Bouvetoya),Tier 1,1,1,1,1
+C073,c2ac8506-00ab-4035-a057-a025ad51e2df,amy37@sanchez.info,8d83f629-c523-4cb1-b973-8d48da78aa3e,"Williams, Perez and Delgado",Congo,Tier 1,1,1,1,1
+C073,6c15bfb5-3920-4d63-82ea-4f84f747f9e5,kristi63@hotmail.com,90688ba7-0e3a-49bd-970d-8506611ca931,"Williams, Perez and Delgado",Congo,Tier 2,1,1,1,0
+C024,577043c0-b6d6-4a2a-86a0-ce3cc68ddaeb,nunezbriana@white.com,b81b0599-5cdc-403e-901f-694668f7e353,"Soto, Smith and Burns",El Salvador,Tier 3,1,0,1,1
+C040,7d95505e-7411-40a9-9524-b2ee0217f0b8,robertstewart@gmail.com,3de4ce3b-9855-4caa-baf4-f39b46558852,Fry Ltd,Greece,Tier 2,0,0,1,1
+C046,0abb3437-1cb2-4bff-9637-0efcfdf7fe17,erichards@marks.org,6c935d6b-e640-4890-b0ee-1788ac6c172d,Coleman Group,Timor-Leste,Tier 1,1,1,1,1
+C094,d4c5cdbf-242c-4438-9ea3-c4dec7d1a289,sandra61@phillips.org,0aa7df6b-7b94-40b6-9663-9163309889e6,Davies-Robinson,Bouvet Island (Bouvetoya),Tier 2,1,1,0,1
+C006,96dc4892-3bc1-461b-bc7b-adaa4ab3b732,kim20@yahoo.com,c84ccab8-3578-487f-922c-63430907354b,Henderson-White,Denmark,Tier 3,0,1,1,0
+C082,ed84e892-2bf9-4a76-ab3b-2a2a9c6e73eb,aaron00@neal.biz,4ef00b17-7b22-4e6c-8b0d-7acf141df11f,Shaw Ltd,Japan,Tier 2,0,1,0,1
+C006,826cc578-ccab-4283-9569-1042b360df73,michaelspencer@grimes.net,04cc1b11-e21a-468a-8a4d-8ab6ca420923,Henderson-White,Denmark,Tier 1,0,1,1,1
+C018,73e1264d-93e5-4c53-a8da-7430cccfd8a1,zachary02@harris.org,15092c9c-fcc3-4337-8c3a-9518997f7d78,Jones-Hall,Kenya,Tier 1,1,1,0,1
+C059,2cfd0f00-f702-4075-8276-dfb7dec161ef,ann17@torres.com,56325ced-6a58-4a98-b855-477a3f8add0c,Williams PLC,Netherlands Antilles,Tier 1,0,0,1,1
+C064,f37d4b0d-c243-4db3-92dd-486251ec56a9,christopherharris@johnson.com,4a34d5d5-3477-4fde-9226-e1815896a48a,"Freeman, Hunter and Ellison",Comoros,Tier 2,1,1,1,1
+C072,e210da84-996d-4067-8695-1e0439636baf,megan13@yahoo.com,d8d2ec12-5bc3-4c66-9ae9-e5b67805cc8c,Olson-Lamb,Bhutan,Tier 1,1,1,1,0
+C030,9b896399-5607-4d4e-bbbc-71836dc26dfe,qrojas@miller.org,cb1e3d91-b1fd-4e9d-bf5f-77292bb2c8fd,"Wood, Daniels and Choi",Slovenia,Tier 2,0,1,1,0
+C082,ed84e892-2bf9-4a76-ab3b-2a2a9c6e73eb,zgomez@hebert.info,a00eb04d-eb71-427c-9537-f156b0469621,Shaw Ltd,Japan,Tier 2,0,0,1,1
+C001,2976e4bb-5453-47b4-bb22-1c75335a8d81,baldwinralph@may-castro.com,8e383c7a-080d-4d92-b35b-144c0e65fe16,Harrington Group,Malawi,Tier 3,0,0,1,0
+C073,6c15bfb5-3920-4d63-82ea-4f84f747f9e5,csanchez@bass.com,b4f47e62-7a44-44d3-8b7d-b5290deea78d,"Williams, Perez and Delgado",Congo,Tier 2,1,0,0,1
+C039,bc503c89-e335-4d41-8360-87f96bcb297f,kristopher84@hotmail.com,d317d22b-2789-4ff5-bf0d-ad05ca360006,Patel-Chen,South Georgia and the South Sandwich Islands,Tier 2,1,1,1,0
+C027,6223615f-1d59-44d8-b05e-8bc7034bd439,shannonmosley@robertson.info,90fbc4a8-d8dd-490e-9003-eae41bc50c11,Bishop PLC,Micronesia,Tier 3,0,0,0,0
+C038,2dc77ff6-429c-4171-8703-34cb45db630d,darren97@yahoo.com,c6c156b9-11c3-4d34-a16b-77c00e46dfc1,Mckay-Khan,Guam,Tier 3,1,1,1,0
+C064,821852a9-53f6-4cd8-a418-8a21830362c8,jonesthomas@hodges-lyons.biz,908065d4-09a3-4c89-ac00-b7a4c630a8d1,"Freeman, Hunter and Ellison",Comoros,Tier 1,0,0,0,0
+C004,51cf58f6-0705-44e6-8dcc-ac5ed3773959,joshuabridges@campos.com,e46d76f7-2c1f-40e7-b35b-30c19a06a4d8,Rose and Sons,Cocos (Keeling) Islands,Tier 3,1,1,0,1
+C016,dd3e1f34-5346-4512-a49f-d4ec1feca19a,ryananderson@gmail.com,4a4ac896-8be5-4b2e-816c-0e824687f38c,"Cain, Mills and Wilkinson",United States Virgin Islands,Tier 3,0,1,0,0
+C079,201696ee-7aae-419d-8d94-019529d0e78b,juan22@hotmail.com,26efb959-6ec5-4948-b4fe-677b151ae75f,Morrison-Estrada,Portugal,Tier 3,0,0,0,1
+C064,821852a9-53f6-4cd8-a418-8a21830362c8,javier77@yahoo.com,5a8fd7de-d39c-43e7-8b4a-606ffb084353,"Freeman, Hunter and Ellison",Comoros,Tier 1,0,0,1,0
+C040,7d95505e-7411-40a9-9524-b2ee0217f0b8,brandi01@howell.com,91ee7c83-050c-4fd7-b549-d55e9eaf618d,Fry Ltd,Greece,Tier 2,1,0,0,0
+C070,cb650ea1-ad15-4318-999e-fe158c89c5f0,darlene94@brown.com,74a30946-c3ec-46f4-99e0-da8511c2020d,Robbins-Flores,United States Minor Outlying Islands,Tier 1,0,0,1,0
+C053,57cdebfd-0607-4cf0-a5c8-1dd75601305b,perezjoshua@hotmail.com,ae83a905-aa37-46a6-8251-3f0e6e0acf02,Webb PLC,Canada,Tier 2,1,1,1,1
+C008,01ca7890-a57f-4fed-8992-5905055cf7ca,ronnie20@williams.biz,5d35a047-5e8e-483e-971a-5391a005049f,"Lang, Dodson and Hicks",Congo,Tier 2,1,0,0,0
+C091,d1a9bd32-2e50-49ea-abfe-75c572adb9fe,haroldmcdonald@yahoo.com,a3413127-8f08-48b9-8945-a9e0c05cb637,Dudley-Silva,Malaysia,Tier 3,0,1,0,1
+C092,53547266-191f-445a-8049-82ac69b79da8,jeremy96@gmail.com,4b52f50a-e0f7-46b8-a4de-517495f5085e,Roberson and Sons,Panama,Tier 3,0,1,1,0
+C027,ca8694c8-42bf-4b74-9cb9-3c88a36af2bc,bramsey@hotmail.com,0a13ea77-c517-4dbe-8723-8531ea7812eb,Bishop PLC,Micronesia,Tier 1,1,1,1,1
+C081,bec8923c-1473-4af2-8526-c3d0f5a93b21,donald64@hotmail.com,67bb2f8c-04b7-4a73-8fd2-ab0847f97529,Burke-May,Jamaica,Tier 3,1,1,1,1
+C032,031b32a9-2ba0-4103-a09d-55761cd56007,andrea61@jones-kline.biz,a262e8f9-69d6-4787-b008-88662848155c,Gray Inc,Zimbabwe,Tier 3,1,1,0,0
+C002,17e62271-3825-47a3-bf0c-e3577ce462d1,sharonacosta@murphy.com,07c41eba-7dff-4142-a74b-7345d6eb484a,Ponce PLC,Zambia,Tier 1,1,1,1,0
+C095,cef5a04e-e417-4c3d-b626-72ac88cf8ed2,aanderson@yahoo.com,c5b64305-06d3-412b-8daa-8996921eee4c,Smith Ltd,Slovenia,Tier 1,1,1,1,1
+C077,7eca9e51-3333-4b4c-bb2d-ad112c065891,stonechris@yahoo.com,ae7d5d12-25d9-4619-8467-26839917edf4,Bowman-Mullins,Botswana,Tier 3,1,1,0,1
+C029,9dd33db3-4aaf-4882-a83f-c11a3a72419c,alicia35@johnson-decker.com,edc01318-f0f9-41d0-9318-5b8015c563c2,"Smith, Kidd and Roberts",Martinique,Tier 3,1,1,1,1
+C085,65de946f-0abb-4577-971c-7461148c34f0,elizabetholson@williams-sullivan.org,1c093cff-5a6c-4685-970c-d854ad0f60a7,Sanchez and Sons,Italy,Tier 1,0,0,1,1
+C085,65de946f-0abb-4577-971c-7461148c34f0,batesbrandi@brown-tucker.org,4b69c868-6a98-4c0a-a609-f3bb759695a0,Sanchez and Sons,Italy,Tier 1,0,0,1,0
+C034,49d294ef-75b6-4818-8b66-fc8d835bc5a1,wilcoxryan@gmail.com,71b11b48-3388-4053-9cdf-d422dae60e3f,Williams-Gray,Azerbaijan,Tier 1,0,0,1,1
+C094,28911719-ee1c-4a97-aee1-3bb5d3270ab8,gcollins@cohen.com,0c5c96a0-3221-4a91-8b10-862520a4551a,Davies-Robinson,Bouvet Island (Bouvetoya),Tier 3,1,1,1,1
+C044,4b2d71e4-89b1-4f05-99ce-a7d205792970,jcobb@hotmail.com,b49f38c9-3f8d-4ec7-b147-49440f25400e,Gonzales-Stewart,Finland,Tier 3,1,1,1,1
+C070,c2a2a566-888c-4d2c-9651-b32aede1585f,melindawood@rowe.com,ee25648b-c76e-4b62-8294-62d93f0dd491,Robbins-Flores,United States Minor Outlying Islands,Tier 2,1,1,1,1
+C080,3a683ad9-a1cd-4e1b-b8e5-8bfe569ddf8e,emilymorris@gmail.com,24e93d02-ee89-4214-b496-13f07f25bf68,Turner Group,Aruba,Tier 3,1,1,1,1
+C032,dd66a786-23ed-4f26-9d3b-887c4cfd21be,qraymond@moreno-hoffman.com,a03fb5f5-1c98-482f-aab1-c55a503fdcc5,Gray Inc,Zimbabwe,Tier 3,0,1,1,1
+C007,3ebe1050-421f-4baf-b370-09d4c8343c94,jason40@hotmail.com,7e955846-3d74-44bb-a5f7-258402006ba3,Powell Inc,Slovenia,Tier 1,1,0,0,1
+C089,0a1c40a8-f027-406d-9af2-abfdd367241c,carla47@young-cox.net,7c67f2eb-5e39-4eaa-9973-477fee5e9658,Johnson Group,French Southern Territories,Tier 3,1,1,1,1
+C009,97f603da-e5e1-4e45-886f-aa2e1764c915,stephanie80@santiago-butler.info,d3cb33a4-5296-4821-8282-eaf346c230bf,Lewis PLC,Malta,Tier 2,1,1,0,1
+C056,5f4037af-107d-4491-8bc3-fa153a9f172c,brittany49@yahoo.com,54fe9df6-885f-40eb-84d0-6a0c300b9457,Gonzales-Esparza,Tuvalu,Tier 3,0,1,0,0
+C079,1cb078df-07b6-477a-ad6b-8efa3a06aa33,amymiller@hotmail.com,dc4c347a-4ccc-489e-91af-ba375b54610f,Morrison-Estrada,Portugal,Tier 3,1,1,1,1
+C084,0d790cc5-bcb1-4c47-a324-483ace74e904,julia36@pena-norris.info,468ec572-31cf-4434-880c-d354b12aa34d,Ramos-White,Russian Federation,Tier 3,1,0,1,0
+C095,9392c475-3739-4063-8df9-f39df4ff5812,tallen@gmail.com,0460fb05-7bd3-4961-b717-3658a074b6df,Smith Ltd,Slovenia,Tier 1,0,1,1,0
+C040,48c58899-6564-4efe-ab0e-f8811503fff3,lanepatricia@hotmail.com,0f3fc173-50ab-400d-9134-10b72e6276c9,Fry Ltd,Greece,Tier 1,1,1,1,0
+C024,a0e7f509-f38d-4c76-880c-d175904dbbd4,nelsonkathryn@garner.com,ae28edcd-3d9c-4fd8-a75d-901a697111e5,"Soto, Smith and Burns",El Salvador,Tier 1,0,1,1,0
+C099,c47d08bd-f023-4a57-ae71-a3c55da557df,hhamilton@berry.com,c01e1a71-3e60-4ed8-aa4f-c9db941ef4a7,Jimenez-Horne,Botswana,Tier 2,1,1,1,1
+C011,740d7618-d1c8-4e81-8a47-245218cb3a91,dianegreen@werner.com,c1a3e6e5-9903-4673-9ef0-7bc56ad7f631,Price-Booker,Taiwan,Tier 2,0,1,1,1
+C013,75a81885-34a2-40b7-a663-7d6f4e234775,lucas31@duarte.biz,6f2f94be-4277-4f85-b882-73ef10464dcc,"Mcmahon, Cabrera and Perez",Oman,Tier 3,1,0,1,1
+C049,03d92e40-9c26-4267-8166-072017c0fad1,wolfechristy@hanson-williams.net,935f06b1-ae8f-4519-b6a2-177563c387c6,Thomas Ltd,Madagascar,Tier 1,0,1,0,0
+C045,5348a6aa-a7cc-473f-95a0-f36396d4e4dc,jaredallen@moore-becker.biz,d1580b8d-56ac-4c75-9ec3-cb98725eeaaa,"Grant, Garrett and Jimenez",Turks and Caicos Islands,Tier 3,1,0,0,1
+C030,9b896399-5607-4d4e-bbbc-71836dc26dfe,brownmark@ortega.com,2975215c-4ab1-4adf-b23a-e1f7e6ec45a0,"Wood, Daniels and Choi",Slovenia,Tier 2,1,1,1,1
+C018,583d17e7-c6f3-4f53-af29-fb44ebe3d622,sheila98@singh-hughes.com,15438f76-3026-4124-ae56-de6fe3e34bb1,Jones-Hall,Kenya,Tier 3,1,1,1,1
+C054,195b5d50-b30a-49f0-864b-1f0b7f9afca1,ssanchez@gmail.com,8555b554-bc88-4066-8945-b6bac6e06e3d,"Hale, Duke and Young",Western Sahara,Tier 2,1,0,0,0
+C100,b8e31b8c-a794-467c-b170-b50b71efd8cf,qsanchez@jensen.info,bcc41bd6-133f-4e5f-a5a2-44ece125e89b,Pratt Group,Cocos (Keeling) Islands,Tier 3,1,1,1,1
+C054,195b5d50-b30a-49f0-864b-1f0b7f9afca1,jorge76@martin.com,08224961-ffb2-43b9-b29d-49f8484f9acd,"Hale, Duke and Young",Western Sahara,Tier 2,1,1,1,1
+C024,577043c0-b6d6-4a2a-86a0-ce3cc68ddaeb,nboyd@rhodes-edwards.com,6df3c16a-2bee-43f2-96c9-24a841b1d0fa,"Soto, Smith and Burns",El Salvador,Tier 3,1,1,0,0
+C022,e7c2af1e-c7e2-465f-b9c2-d7b50875a73c,carlos29@santos.com,c491918d-9911-4786-800c-5bcf60292a93,"Oliver, Adams and Johnson",Tajikistan,Tier 2,1,1,1,0
+C073,6c15bfb5-3920-4d63-82ea-4f84f747f9e5,patrick24@walsh.com,d5916bfa-df1d-495f-aba7-e579ed5547ad,"Williams, Perez and Delgado",Congo,Tier 2,0,1,1,1
+C048,6b10e726-0a97-4b3e-8cb3-fbf03741fdc1,parkstracey@yahoo.com,fdfc969d-772c-4fd9-9df8-ed30cb563ed5,Thomas-Taylor,Cote d'Ivoire,Tier 1,0,1,1,0
+C044,eb1edd05-ebbd-4050-90a5-4f1474897bda,rthompson@harrison-donaldson.info,7067fc40-6aeb-4733-94c4-175aa7fc91f0,Gonzales-Stewart,Finland,Tier 1,1,0,0,0
+C014,3ec09cbc-7781-4bac-95d3-5c6a9ff3ad6a,emily75@yahoo.com,1f081cd6-bdf1-466d-9609-5581b06dd46c,Lopez Ltd,Cambodia,Tier 1,1,1,1,1
+C100,b8e31b8c-a794-467c-b170-b50b71efd8cf,jacqueline32@gomez.com,c5d2c45c-ffac-405b-b5c8-e0e616fafc1b,Pratt Group,Cocos (Keeling) Islands,Tier 3,1,1,0,1
+C039,2914a310-eef1-4130-89d0-9c23f682c484,latoyajoyce@yahoo.com,a413fe10-0ca7-4299-88a7-de8f119631af,Patel-Chen,South Georgia and the South Sandwich Islands,Tier 2,1,1,0,1
+C016,dd3e1f34-5346-4512-a49f-d4ec1feca19a,michael12@olson-anderson.info,2d3354d7-cbb9-479b-8d97-3450e4216b45,"Cain, Mills and Wilkinson",United States Virgin Islands,Tier 3,1,1,1,1
+C013,75a81885-34a2-40b7-a663-7d6f4e234775,shayes@yahoo.com,cff933ac-b4e1-4048-8941-8783b551f8b7,"Mcmahon, Cabrera and Perez",Oman,Tier 3,0,1,1,0
+C035,20a41547-160f-4706-a540-5d0e41d7acf1,jeffery86@hotmail.com,d3a7c909-d231-4add-9625-aade03a834a0,Martin and Sons,Burkina Faso,Tier 1,0,0,1,1
+C066,7b82cf13-0561-4eed-95a2-5ab7ed4b53c8,jonesthomas@yahoo.com,b7feff5b-9e73-4fb0-b4b6-58593f6723b4,"Gonzalez, Benton and Thompson",Uruguay,Tier 3,0,0,0,1
+C077,7eca9e51-3333-4b4c-bb2d-ad112c065891,ocrawford@gmail.com,5ac1d306-191e-4fdd-913d-a7acda0dba0a,Bowman-Mullins,Botswana,Tier 3,1,0,0,1
+C062,987a74bd-df5f-4445-9dc9-d82607f973bd,maryortiz@edwards.com,ea7fcf4d-edb0-4bda-ae72-b18ac7ab4943,Moreno Ltd,Korea,Tier 1,0,1,1,1
+C074,10e4ac52-9b3d-44f3-8070-167ca5977128,cevans@garcia.org,7f258e7f-8e0c-4f66-a7cf-bb71cd0ee66a,"Mathews, Patterson and Rodriguez",Northern Mariana Islands,Tier 2,1,1,1,1
+C067,d64cc2b0-3bca-43cc-916e-34aa74fccdfc,jeffreysnyder@gmail.com,34f58655-bf53-4968-9ff6-eb34c11365ec,Morgan-Woods,Iceland,Tier 1,1,0,1,0
+C095,cef5a04e-e417-4c3d-b626-72ac88cf8ed2,pkim@hotmail.com,ba4b3f91-5bb2-4e94-b5e9-dff9f8112e60,Smith Ltd,Slovenia,Tier 1,1,1,1,1
+C006,826cc578-ccab-4283-9569-1042b360df73,melvin76@gmail.com,0d4df58b-7251-469b-bc11-08048253969b,Henderson-White,Denmark,Tier 1,1,1,1,1
+C025,7017d78b-b971-41d1-8291-0b934c440644,fbaker@hotmail.com,079ad336-f5de-4302-8c6c-b9bdae02b668,"Chambers, Novak and Baker",Malta,Tier 3,1,0,0,1
+C086,ae634ac4-c785-4c13-92b8-7aeca8fe9b01,wintersalex@fernandez.net,44e0e9d4-1afb-49aa-8937-777eca2a6796,"Griffin, Taylor and Page",Burkina Faso,Tier 3,1,1,1,0
+C043,bdf74c03-34a4-4ed9-8625-d57bef1d2055,qarmstrong@gmail.com,deef71d4-8e76-4397-aad1-95a55610a561,Allen-Sparks,Spain,Tier 3,1,1,1,1
+C038,bee683af-b4bd-4fff-8a0d-d6f817dd269c,lyonsjustin@hotmail.com,1e26446a-721c-423d-85ec-aa6c6f1e5ff5,Mckay-Khan,Guam,Tier 2,0,1,1,1
+C088,cb24c3da-2680-43bb-8344-b8c0ab8875b3,teresawood@yahoo.com,507dc6db-2a9c-44a4-9a2e-87757df1fb5a,Sanders Group,Niger,Tier 3,1,1,0,1
+C011,0e590de8-7355-41a9-90bc-c4b342367922,pgould@parker.com,06ae5ea7-484f-4f98-aad0-4dbb313d41e1,Price-Booker,Taiwan,Tier 1,1,1,1,0
+C083,33604363-1606-4d89-b3e9-9e64fc45ddaf,vkelly@flowers.com,9eb01f9f-65b8-4c59-860c-86e50a157c48,"Ramos, Thomas and Jackson",Saint Martin,Tier 3,1,1,0,1
+C095,cef5a04e-e417-4c3d-b626-72ac88cf8ed2,jtaylor@yahoo.com,334282c5-e4e4-4c6c-b950-9bc2d2cba194,Smith Ltd,Slovenia,Tier 1,1,1,1,0
+C045,5348a6aa-a7cc-473f-95a0-f36396d4e4dc,yolandafarmer@hotmail.com,8e0627dd-74b2-493c-b03d-c91a2f463eee,"Grant, Garrett and Jimenez",Turks and Caicos Islands,Tier 3,0,0,0,1
+C086,ae634ac4-c785-4c13-92b8-7aeca8fe9b01,craigthomas@johnson.com,408bf8e9-70b6-4621-93d8-49ef8ca7a2e7,"Griffin, Taylor and Page",Burkina Faso,Tier 3,0,1,1,0
+C012,70cfdd83-8dc9-4504-bae4-16184bc1cafa,julie16@mccoy.net,4f9ce96e-e26a-476f-bfd6-8b0106c0f849,Sanchez-Bates,Mali,Tier 2,1,1,0,1
+C052,5222cfcf-4599-4e75-b6fb-b1cfac63e55e,jenningsamber@freeman.com,f94e94b6-2a69-4fca-837d-7ddc9ffb314e,"Small, Powers and Wright",Barbados,Tier 1,0,0,1,0
+C087,6d3d981c-ade6-4c58-924d-22318f06d984,jacksonkevin@hotmail.com,a8f9391c-8021-413f-a631-14b7892bcff6,Powers Group,Falkland Islands (Malvinas),Tier 1,0,0,1,0
+C098,d116d805-94c5-4e74-ac57-a4039c02b9dd,douglas81@yahoo.com,474cab16-bea7-4b67-9ddb-6e57a1a03521,Day Inc,Niger,Tier 1,1,1,0,1
+C094,d4c5cdbf-242c-4438-9ea3-c4dec7d1a289,leslie04@yahoo.com,ea189eaa-4ad6-4fb1-9bf1-0e2e862892d9,Davies-Robinson,Bouvet Island (Bouvetoya),Tier 2,1,1,1,1
+C098,d116d805-94c5-4e74-ac57-a4039c02b9dd,xacosta@gmail.com,fe405746-923b-4190-991f-71eebef22620,Day Inc,Niger,Tier 1,1,1,1,1
+C002,474eb232-bf9b-4c73-bdf3-432bf97fdbf0,haileygarcia@gmail.com,f4989121-fc50-41d8-ae27-4deb0fa8350c,Ponce PLC,Zambia,Tier 3,1,0,1,1
+C074,9a5ed449-b5a1-4244-85bb-25dcd78c36f2,megan84@donovan.com,12ed6ffa-612a-44f0-9c0a-3297517252da,"Mathews, Patterson and Rodriguez",Northern Mariana Islands,Tier 1,0,1,1,0
+C092,80521baa-be5f-4ec2-a54f-5a3ff7884b3d,omoore@hotmail.com,e141a24a-2b1c-47eb-8455-c6b2b48e8a9f,Roberson and Sons,Panama,Tier 3,1,1,1,1
+C034,49d294ef-75b6-4818-8b66-fc8d835bc5a1,roycole@gmail.com,172fb7c5-212c-493c-a059-d9fc37da2f3a,Williams-Gray,Azerbaijan,Tier 1,1,1,0,0
+C038,2dc77ff6-429c-4171-8703-34cb45db630d,mullenmark@yahoo.com,b005e8f4-fd61-43c7-9a6b-df2dd3548dc2,Mckay-Khan,Guam,Tier 3,1,1,0,0
+C047,d596c206-a2d2-471b-8ea1-d513141265a0,johnsmith@klein.com,0e151a9f-42e0-4f18-adf6-6732a0982849,"Pierce, Flynn and Hines",Bulgaria,Tier 1,1,0,1,1
+C099,c47d08bd-f023-4a57-ae71-a3c55da557df,mariasmith@hotmail.com,5765934c-8cf7-495a-a942-909d4c106451,Jimenez-Horne,Botswana,Tier 2,1,0,1,0
+C002,603654ec-46f4-42a4-8520-311ccf962f38,teresaortiz@gmail.com,54fd2cc0-e79f-4525-ab37-029fc7cccfdf,Ponce PLC,Zambia,Tier 2,1,0,1,1
+C027,ca8694c8-42bf-4b74-9cb9-3c88a36af2bc,mirandadaniel@palmer.org,08bb85ca-d95c-4820-a570-98bb1b548adb,Bishop PLC,Micronesia,Tier 1,0,1,0,0
+C036,d2881294-1960-42b3-8e0e-e429396409a8,jenniferclark@yahoo.com,bf0ad2e9-c1bf-4f60-828a-a3e0f018b595,Dudley-Rowland,Slovenia,Tier 1,0,0,1,1
+C002,17e62271-3825-47a3-bf0c-e3577ce462d1,vcampbell@munoz-lyons.com,7c45e3fc-adc2-416b-aa2c-d96c9ac59e13,Ponce PLC,Zambia,Tier 1,0,1,0,1
+C058,79504f1c-b819-4566-b29e-13178c97547f,amy43@hotmail.com,5eb4f9b4-97b6-4cc9-b3b4-353d8978246c,Lane-Bennett,Jamaica,Tier 2,1,0,1,1
+C087,6d3d981c-ade6-4c58-924d-22318f06d984,qwhitaker@gmail.com,413638da-6643-4949-b1ea-4ba91f2abcc3,Powers Group,Falkland Islands (Malvinas),Tier 1,1,1,1,0
+C004,bce72fdb-df64-4a5e-b316-6154cbdc7b11,hooperchristopher@gmail.com,ef4c3555-da39-4880-940a-2f1d5f20ec90,Rose and Sons,Cocos (Keeling) Islands,Tier 1,1,0,0,1
+C019,03632f86-613f-4278-992f-826c66728261,ffitzpatrick@hotmail.com,43e79b5f-9e73-4246-996a-85423d574573,Tucker LLC,Andorra,Tier 2,1,0,1,0
+C008,01ca7890-a57f-4fed-8992-5905055cf7ca,gfreeman@hotmail.com,a007efc0-707e-4f2f-9cb2-78ca7278f5ed,"Lang, Dodson and Hicks",Congo,Tier 2,0,1,0,1
+C093,0f71f6c6-dfd5-494d-b35e-161ba160547f,chapmanrita@harper-le.com,2bb0290c-736f-44b6-8f81-4c11efa68af6,"Valdez, Hoffman and Hess",Bulgaria,Tier 1,1,1,0,1
+C054,7d1bae36-b3ee-48e8-a8d8-012e8c8413a6,dylan23@gmail.com,007c2adc-f531-4bed-8a21-d170266c2e6c,"Hale, Duke and Young",Western Sahara,Tier 1,1,1,1,1
+C083,e1513f7f-c6f6-4d1b-83d8-4ab9bfb708ae,vkelly@vance-hunt.biz,5af6c2e2-5f79-4ddd-99de-a171da6446d9,"Ramos, Thomas and Jackson",Saint Martin,Tier 3,1,0,1,0
+C077,55613c88-3856-431c-ac8e-1b8b70a1a877,lucerokaren@hotmail.com,dedfed91-c741-457a-b978-3bcb0c1410cf,Bowman-Mullins,Botswana,Tier 1,1,1,1,1
+C010,3d109bd9-6607-4a92-93bc-80f11d2b20e2,jday@yahoo.com,19ab2551-9068-4ec8-a11f-31a72a83e53f,Montgomery-Taylor,Montenegro,Tier 3,1,1,1,0
+C045,5348a6aa-a7cc-473f-95a0-f36396d4e4dc,jkelley@jacobs-perry.org,1a0517e5-33e0-4735-ba3b-d34e644b0d2a,"Grant, Garrett and Jimenez",Turks and Caicos Islands,Tier 3,0,1,1,0
+C002,474eb232-bf9b-4c73-bdf3-432bf97fdbf0,johnsoncynthia@yahoo.com,4a072150-7625-49bb-b97a-2da60f6db59d,Ponce PLC,Zambia,Tier 3,1,0,0,1
+C036,d2881294-1960-42b3-8e0e-e429396409a8,thomasyoung@gmail.com,24732dcc-eba2-4c13-874f-416aad17d3a9,Dudley-Rowland,Slovenia,Tier 1,1,0,1,0
+C026,b0d3f6a8-218a-4bb6-ad3c-1207afc967e2,tayloremily@hotmail.com,7f631496-b50e-4d9b-ae4c-85955b9ff935,"Myers, Wilson and Randolph",Eritrea,Tier 3,0,0,0,0
+C022,e7c2af1e-c7e2-465f-b9c2-d7b50875a73c,mlambert@baird.net,980f913f-0ec1-4697-aba0-38af1e5be917,"Oliver, Adams and Johnson",Tajikistan,Tier 2,1,0,0,0
+C075,399a6bd5-1834-4205-ad1e-79c095b509a1,crystalromero@yahoo.com,dde32498-21e7-4273-ade1-c56304986af0,"Morgan, Stewart and Golden",Tuvalu,Tier 2,1,1,0,1
+C095,9392c475-3739-4063-8df9-f39df4ff5812,bgarcia@bennett-smith.com,15fcda4f-2799-405c-aa08-9833fd45b134,Smith Ltd,Slovenia,Tier 1,0,1,0,1
+C025,5f561582-917b-478f-aa3e-b6242ff41f33,zbowman@gmail.com,d2354a7d-fa19-4ed0-9930-21e978943fdb,"Chambers, Novak and Baker",Malta,Tier 3,1,0,1,1
+C074,9a5ed449-b5a1-4244-85bb-25dcd78c36f2,david71@howell.com,f156b5e8-ca35-4eb6-8c86-15428367719f,"Mathews, Patterson and Rodriguez",Northern Mariana Islands,Tier 1,0,0,1,0
+C048,6b10e726-0a97-4b3e-8cb3-fbf03741fdc1,ramseycatherine@thomas.com,7b479554-f83e-4c4e-a43b-5913d707ae56,Thomas-Taylor,Cote d'Ivoire,Tier 1,1,1,1,1
+C071,94d46234-8e82-45f7-9f94-0e1d8e8be34b,tiffanygonzalez@bush-smith.com,5b378f49-8a40-401c-8193-27fc42f278d8,Miller LLC,Algeria,Tier 3,1,1,0,0
+C047,c8d9b4c6-95ce-4c72-8198-67fd677a7cf6,daviddiaz@hester-morris.com,3a8b83e0-00af-494f-84a6-a97e5840ca12,"Pierce, Flynn and Hines",Bulgaria,Tier 1,1,0,0,1
+C035,1bfda3e3-42e3-4677-b861-9efe3f9d009b,hguerrero@singh.com,97e24296-7167-4f73-bab8-35f9156bdf26,Martin and Sons,Burkina Faso,Tier 2,0,0,1,0
+C048,60db4741-435b-485e-aead-024b3fab400a,srandall@brown-martinez.com,6199b83e-9a1d-4773-8608-7f89f957ed48,Thomas-Taylor,Cote d'Ivoire,Tier 2,1,0,1,0
+C011,0e590de8-7355-41a9-90bc-c4b342367922,sarah69@gmail.com,76c19f96-a186-42c2-ac33-2f1d9dffb745,Price-Booker,Taiwan,Tier 1,0,1,1,1
+C062,987a74bd-df5f-4445-9dc9-d82607f973bd,steven78@lewis.org,ca77f847-f8ff-447e-9f12-3ef879d44d77,Moreno Ltd,Korea,Tier 1,1,0,0,1
+C037,ab2335c3-ddfb-4efa-a07f-60bb4c740c7c,williamsemily@porter.com,41b8cd4b-5542-4d7b-bd39-c8dc066450df,"Nichols, Jimenez and Wells",Guyana,Tier 1,1,1,1,0
+C094,e3875eff-a731-4713-8e1a-3f77785e4884,xking@scott.info,97315175-a08c-4b59-840d-24b2e040ec59,Davies-Robinson,Bouvet Island (Bouvetoya),Tier 1,0,0,0,1
+C015,dc54cd01-409e-4bec-a69b-24a9fc6820ae,jenkinskeith@yahoo.com,d6004958-b646-44ea-92a0-1782b6242270,Snyder-Meyer,Haiti,Tier 3,1,1,1,1
+C092,80521baa-be5f-4ec2-a54f-5a3ff7884b3d,williamsroger@yahoo.com,ccf3d604-d8bd-4c88-8952-34053d16a62d,Roberson and Sons,Panama,Tier 3,0,0,1,1
+C033,e24eee99-f6ef-4c04-ad41-d3f337b49253,christopherwhite@gmail.com,a48df857-3bfe-4a19-ac43-702b631c1376,Phillips-Villa,Gibraltar,Tier 2,1,1,1,0
+C064,f37d4b0d-c243-4db3-92dd-486251ec56a9,juan29@hotmail.com,6f570d76-7153-4169-9750-328f47069968,"Freeman, Hunter and Ellison",Comoros,Tier 2,1,1,1,1
+C035,20a41547-160f-4706-a540-5d0e41d7acf1,christian91@gmail.com,6a8a5be4-4657-4459-9313-608fffc1f190,Martin and Sons,Burkina Faso,Tier 1,1,0,1,0
+C086,5c3c3493-f97d-4e8a-81cf-dc22d32329fc,gwilliams@lutz-aguilar.info,87a77e6c-8829-4e90-8a7c-ae5971d86e7d,"Griffin, Taylor and Page",Burkina Faso,Tier 1,0,1,0,1
+C053,350d2d8d-0693-4886-935d-f4bcf04ff3fd,tanya29@yahoo.com,4f7307f5-1d5c-4458-a540-00cf6c4e39eb,Webb PLC,Canada,Tier 2,0,0,1,0
+C049,03d92e40-9c26-4267-8166-072017c0fad1,kaylaleon@yahoo.com,0007692d-0059-4b2a-8985-db918df27cbe,Thomas Ltd,Madagascar,Tier 1,1,1,1,1
+C013,75a81885-34a2-40b7-a663-7d6f4e234775,laura03@gmail.com,724cce28-d780-433d-94ed-c3b55ba307a1,"Mcmahon, Cabrera and Perez",Oman,Tier 3,0,1,1,0
+C009,97f603da-e5e1-4e45-886f-aa2e1764c915,smithvanessa@yahoo.com,b9f94cc5-f419-464f-94e2-e5dbf64cabab,Lewis PLC,Malta,Tier 2,0,0,0,0
+C006,96dc4892-3bc1-461b-bc7b-adaa4ab3b732,taylor53@elliott.com,f6dbb792-30f3-4bb1-810a-6fe2e8336e30,Henderson-White,Denmark,Tier 3,1,1,1,1
+C022,e7c2af1e-c7e2-465f-b9c2-d7b50875a73c,keydavid@hotmail.com,6043f680-fa1b-461d-bc3f-490b207f03e0,"Oliver, Adams and Johnson",Tajikistan,Tier 2,1,1,1,1
+C017,d5021d87-493a-441c-b716-5f9af8bc75b1,whitetiffany@yahoo.com,283b631d-0133-4569-ab19-21551aea68ec,"Davies, Holt and Todd",Kyrgyz Republic,Tier 3,0,1,0,1
+C098,ed200278-bbc0-4130-bcea-778ee37910a1,bradsmith@howard.biz,1b1f9bdf-b0ae-4991-aedb-6053f1bb01ac,Day Inc,Niger,Tier 3,0,0,0,1
+C082,8407d6c4-b4c4-4a38-938e-b17842b6db78,ahaynes@robertson.biz,41579456-bd1f-4abf-88ee-76e0a6845023,Shaw Ltd,Japan,Tier 3,0,0,1,0
+C015,dc54cd01-409e-4bec-a69b-24a9fc6820ae,veleznatalie@gmail.com,50f80590-3f19-43e0-bd17-7a1353674b70,Snyder-Meyer,Haiti,Tier 3,0,1,1,1
+C052,5222cfcf-4599-4e75-b6fb-b1cfac63e55e,youngjames@yahoo.com,0114cd79-51e7-4bf5-9723-dc1ba2a522ba,"Small, Powers and Wright",Barbados,Tier 1,1,1,1,0
+C040,7d95505e-7411-40a9-9524-b2ee0217f0b8,shurst@roberts-ramirez.com,50d9c59b-191f-4604-b63a-cb32cafe28b1,Fry Ltd,Greece,Tier 2,1,1,1,1
+C047,c8d9b4c6-95ce-4c72-8198-67fd677a7cf6,brandiparker@yahoo.com,b9082b37-dda2-42a5-918f-b38386c5221e,"Pierce, Flynn and Hines",Bulgaria,Tier 1,1,0,0,1
+C097,64463d76-aff6-4413-a4aa-015cbcc5d5f0,ronald45@brown.info,561bef95-46f2-4d7d-b235-bf94afe2d2e5,"Jones, Scott and Trevino",El Salvador,Tier 2,1,0,1,1
+C041,c1d9a661-4a0d-45e9-8688-1603c630c97a,julierichardson@grant-lee.info,5432567a-4744-4ed3-8152-92f857f4f3bb,Nicholson-Williams,Ghana,Tier 3,1,1,0,1
+C038,2dc77ff6-429c-4171-8703-34cb45db630d,uellis@gmail.com,1518820b-7c85-4b5f-9770-d1026ce2038b,Mckay-Khan,Guam,Tier 3,1,0,0,1
+C005,db83e89f-4332-4e03-bcb4-f1ddaf55f4a7,uhenry@gmail.com,f01b5178-2c8b-4ff0-af64-d30c0b3798ec,"Roth, Riley and Martinez",Angola,Tier 2,1,0,1,1
+C100,7abbb931-a456-4b63-bf28-d4580edd009c,keithrichardson@yahoo.com,f4d13009-fe2d-4db9-8dcc-66b90fe0c790,Pratt Group,Cocos (Keeling) Islands,Tier 2,1,0,0,0
+C056,5f4037af-107d-4491-8bc3-fa153a9f172c,monicaortiz@beasley-hale.com,69c2ad55-3113-4d70-ba03-81164adf2880,Gonzales-Esparza,Tuvalu,Tier 3,0,1,1,1
+C044,a938ef58-3a9e-4fa0-940a-50c66105bda9,markvaldez@hotmail.com,5e514314-c183-45cc-a2d2-2cbc15b480e1,Gonzales-Stewart,Finland,Tier 2,1,1,0,1
+C036,ebf841d7-fb91-4a9a-9881-8462ce63556d,kterry@gmail.com,d2582ce7-993b-4ce5-bb09-1f3b724a602c,Dudley-Rowland,Slovenia,Tier 3,1,0,0,0
+C036,d2881294-1960-42b3-8e0e-e429396409a8,bauerstephanie@gmail.com,a026511a-a84c-40b4-acc9-11aa0e1180ae,Dudley-Rowland,Slovenia,Tier 1,1,1,1,1
+C015,dc54cd01-409e-4bec-a69b-24a9fc6820ae,frank64@hill-white.com,bd530472-a872-4d16-81ef-e8e698c2fe59,Snyder-Meyer,Haiti,Tier 3,1,1,1,1
+C059,2cfd0f00-f702-4075-8276-dfb7dec161ef,collinskatherine@white-flores.org,1cdba7b6-1ba0-4a46-8906-e112ba47e867,Williams PLC,Netherlands Antilles,Tier 1,1,0,0,0
+C085,65de946f-0abb-4577-971c-7461148c34f0,ecarroll@yahoo.com,f81248ae-48de-4eec-b359-c859ffa7a1d4,Sanchez and Sons,Italy,Tier 1,0,0,1,0
+C008,9300c0aa-eb22-4a76-a1a3-a2714c7efe2a,dicksonanthony@yahoo.com,d14b0aee-84b9-46ea-9b80-e3242773bb0e,"Lang, Dodson and Hicks",Congo,Tier 2,0,0,0,1
+C038,bee683af-b4bd-4fff-8a0d-d6f817dd269c,williamsbryan@yahoo.com,4498f8ee-158d-4b2d-af28-8287c5a1b568,Mckay-Khan,Guam,Tier 2,1,1,1,1
+C094,d4c5cdbf-242c-4438-9ea3-c4dec7d1a289,erin18@le.com,7819995e-c439-46a6-b632-66070ba963e0,Davies-Robinson,Bouvet Island (Bouvetoya),Tier 2,1,1,1,1
+C031,d9169632-7210-4620-8620-e4a99b0e4617,williamdouglas@martin-rios.com,1930464e-0290-42c8-8173-9754a3bdb913,Gonzalez-Boyle,Ghana,Tier 1,1,1,1,1
+C063,926706a2-d1d6-4beb-9ce2-2a60b50624a0,bobby89@calhoun.net,3ad6d27d-aef4-4be4-84dd-660b0e5df8a2,Phillips PLC,New Caledonia,Tier 2,1,1,1,1
+C030,9b896399-5607-4d4e-bbbc-71836dc26dfe,watsonashley@mccormick.com,be037e6e-eafc-4c5b-8af5-e7a15b38b266,"Wood, Daniels and Choi",Slovenia,Tier 2,0,0,0,1
+C097,64463d76-aff6-4413-a4aa-015cbcc5d5f0,amy92@hines.com,6774d949-60eb-4aac-b913-d7e74dd9a67e,"Jones, Scott and Trevino",El Salvador,Tier 2,1,1,1,1
+C047,c8d9b4c6-95ce-4c72-8198-67fd677a7cf6,emilyalvarez@patel.com,aafb7c3a-582b-4548-8b33-26b1e2a31985,"Pierce, Flynn and Hines",Bulgaria,Tier 1,1,1,1,1
+C028,0b233033-6267-4051-b804-17c31cd936a2,reynoldsjason@mclean.com,c07013af-1c7d-4b9d-b14d-2c899e8599ff,Cross-Maldonado,Greece,Tier 3,1,0,1,0
+C071,90f3eabf-c1a7-4832-b479-51118c1e3a12,johnsonbarry@ferguson-garcia.com,2518aa88-b2c6-44f0-b791-4013c0a1ab0f,Miller LLC,Algeria,Tier 2,1,1,1,1
+C038,bee683af-b4bd-4fff-8a0d-d6f817dd269c,martineztimothy@hotmail.com,45dab4fd-dcd6-4f54-be87-f7ddc4e061f4,Mckay-Khan,Guam,Tier 2,0,0,0,0
+C077,3c1bfb5e-7ab4-4522-adaf-6985d05526c1,vjones@adams-gonzalez.info,701175ae-22bf-426a-87d6-76e865be0cae,Bowman-Mullins,Botswana,Tier 1,1,1,1,0
+C074,9a5ed449-b5a1-4244-85bb-25dcd78c36f2,dawnmurphy@smith.com,09436e17-e435-437c-96e0-0aa07aefed2e,"Mathews, Patterson and Rodriguez",Northern Mariana Islands,Tier 1,1,1,1,1
+C034,49d294ef-75b6-4818-8b66-fc8d835bc5a1,karen87@sharp-kirby.com,3132a530-e717-4a34-a454-68a6e3526b6e,Williams-Gray,Azerbaijan,Tier 1,1,1,1,1
+C058,79504f1c-b819-4566-b29e-13178c97547f,adamsblake@dawson.com,f23a597a-dcf3-4c1a-920d-239c04f24e3d,Lane-Bennett,Jamaica,Tier 2,0,1,0,0
+C005,c08f175e-de2a-4a83-b465-d092ab22ac1b,allenjohn@moore.com,7250ca81-5381-4dec-a547-e27e6e742714,"Roth, Riley and Martinez",Angola,Tier 3,0,0,0,0
+C063,e3345259-1da5-4122-9cda-980c9d503ed6,kyle83@yahoo.com,257f9eaa-f55c-46a2-9d60-6bcceae12131,Phillips PLC,New Caledonia,Tier 1,1,1,1,1
+C038,2dc77ff6-429c-4171-8703-34cb45db630d,george17@gmail.com,76304e6e-804e-4758-997d-d2822b2e47af,Mckay-Khan,Guam,Tier 3,1,0,0,0
+C050,6da8d912-da54-4760-8780-08a6f183614c,ahuffman@gmail.com,cd934a8d-e67a-4ebb-9fb7-4b177acba2da,Price and Sons,Liberia,Tier 2,1,0,0,1
+C039,ac8fba4d-8865-45f6-b628-0328d101acef,georgebeck@hotmail.com,081e461d-93ee-4350-b934-cd13521c89c4,Patel-Chen,South Georgia and the South Sandwich Islands,Tier 1,0,0,1,0
+C068,940d7c8a-55ef-4249-b8cc-4a9bf6e9c190,dawncalderon@howard.com,1606efce-61cb-41b6-91c4-d3abac887608,Hebert-Green,Solomon Islands,Tier 1,0,0,1,1
+C047,519c3c6a-9fda-4605-ab49-d32ff423e06e,dhall@gmail.com,038f11c0-ef78-44be-9384-31244749f2fe,"Pierce, Flynn and Hines",Bulgaria,Tier 1,1,0,1,0
+C064,894322be-f40a-40e0-a61d-345f7d2b49c8,stephaniecrosby@mahoney.com,a856ae39-0316-4e0d-81aa-e5a4f7bf5b88,"Freeman, Hunter and Ellison",Comoros,Tier 1,1,1,1,1
+C097,488daa3c-101f-40a4-91a5-31ccf4e03dcf,elizabeth19@lopez-ramirez.com,45218708-4c72-4e29-9f9b-b9f1261948a1,"Jones, Scott and Trevino",El Salvador,Tier 1,0,0,0,1
+C077,55613c88-3856-431c-ac8e-1b8b70a1a877,bjones@yahoo.com,b88a38fb-88ab-40aa-8896-10fac47a3f15,Bowman-Mullins,Botswana,Tier 1,1,1,1,1
+C082,324e1769-5acc-4e9f-9d77-bfb6a8204b6d,stephaniewilson@guerrero-garcia.com,28457acf-7051-46c4-9ba2-db5edaccefab,Shaw Ltd,Japan,Tier 2,0,0,1,1
+C048,6b10e726-0a97-4b3e-8cb3-fbf03741fdc1,gloria47@hotmail.com,6e2c1628-af2d-477e-801f-e44288c05204,Thomas-Taylor,Cote d'Ivoire,Tier 1,0,0,1,0
+C091,d1a9bd32-2e50-49ea-abfe-75c572adb9fe,fhall@gmail.com,873141f4-82ef-4862-8361-c332cbcba299,Dudley-Silva,Malaysia,Tier 3,1,0,0,1
+C063,736041de-ea9e-487a-8576-aae1ec6358bd,donnamorgan@yahoo.com,248f61d6-6f95-40ee-b5a0-078f717e376d,Phillips PLC,New Caledonia,Tier 2,0,1,0,0
+C031,d9169632-7210-4620-8620-e4a99b0e4617,rhonda33@church.com,512b229e-5af6-4824-8e3c-e957bcab1871,Gonzalez-Boyle,Ghana,Tier 1,1,0,0,0
+C065,2bbff622-f8db-4f68-9c5d-8887b6c426af,clarkjulia@gmail.com,4fe9918f-fe9d-4b6d-a182-7d04a32c137d,"Davis, Foster and Gomez",French Southern Territories,Tier 2,0,0,1,1
+C081,bec8923c-1473-4af2-8526-c3d0f5a93b21,guy67@collins.biz,dc058d48-5d3b-45e9-9841-0cf27c092d13,Burke-May,Jamaica,Tier 3,1,1,1,1
+C012,70cfdd83-8dc9-4504-bae4-16184bc1cafa,shafferdaniel@yahoo.com,0d2b86d5-8cb6-40be-8f71-177fb57382c4,Sanchez-Bates,Mali,Tier 2,1,1,1,1
+C006,826cc578-ccab-4283-9569-1042b360df73,heathmichelle@serrano.info,6afbc3f7-4ee8-462c-acde-e3608ae577cb,Henderson-White,Denmark,Tier 1,1,1,1,1
+C078,d7896fa8-be84-43c9-8577-c227a51a092f,conradtracy@gmail.com,9bd50370-c976-40f9-b007-87002246b559,Arnold-Vargas,Saint Barthelemy,Tier 2,1,1,1,1
+C030,9b896399-5607-4d4e-bbbc-71836dc26dfe,tmoore@gallagher-webb.biz,94914443-4b2f-4048-93c3-e241eab2ff8b,"Wood, Daniels and Choi",Slovenia,Tier 2,1,1,1,0
+C074,9a5ed449-b5a1-4244-85bb-25dcd78c36f2,gedwards@taylor.org,0b8ea6b0-8f5b-4307-b039-6b4ef49bcb7d,"Mathews, Patterson and Rodriguez",Northern Mariana Islands,Tier 1,0,1,1,0
+C064,821852a9-53f6-4cd8-a418-8a21830362c8,djohnson@anderson.com,c254ae95-296e-49f8-a891-f64bcd96e5a6,"Freeman, Hunter and Ellison",Comoros,Tier 1,0,1,1,1
+C042,769e1175-0d37-416c-b6b9-c7c859334777,ashley14@hotmail.com,833df658-b4cd-45e8-864c-577987841299,Jarvis-Ingram,Suriname,Tier 2,1,1,0,1
+C081,ea5f5d2b-43fb-47fc-b3d4-c2aa424e6643,garzamichelle@yahoo.com,41ff7068-d6c4-4bb2-aa7d-35b29c919fe8,Burke-May,Jamaica,Tier 1,1,0,0,1
+C009,8a601a70-ff05-4fc1-a5ea-aa82a028a6e7,adam87@chavez.org,81546867-44f2-48a9-b298-18840ffa1451,Lewis PLC,Malta,Tier 3,0,1,0,1
+C095,0925602a-8b7e-4520-bfa9-3b2441d0f57c,adam28@gmail.com,758588e8-3d5c-44b3-bb04-9502201204c7,Smith Ltd,Slovenia,Tier 2,1,1,1,1
+C025,7017d78b-b971-41d1-8291-0b934c440644,colin90@sellers-lopez.info,08b8a08a-c604-4ae4-b596-c83f6d2d331c,"Chambers, Novak and Baker",Malta,Tier 3,0,1,1,1
+C044,eb1edd05-ebbd-4050-90a5-4f1474897bda,tmorris@montoya.com,fe06f7fe-b207-4bfd-9199-31422b5c1f62,Gonzales-Stewart,Finland,Tier 1,1,0,0,1
+C035,20a41547-160f-4706-a540-5d0e41d7acf1,mary97@sparks-skinner.org,a9186ca3-65fa-47c0-8768-8021d48c35ec,Martin and Sons,Burkina Faso,Tier 1,0,0,1,0
+C049,03d92e40-9c26-4267-8166-072017c0fad1,caitlynreese@gmail.com,5b4362bc-00b6-4855-ab50-ea77a9e980bc,Thomas Ltd,Madagascar,Tier 1,1,1,0,1
+C053,350d2d8d-0693-4886-935d-f4bcf04ff3fd,shannonmonique@gmail.com,bc3d9afb-2f95-42d9-8b07-ae18adc1197a,Webb PLC,Canada,Tier 2,1,0,1,1
+C026,602bc573-afad-4b1a-ab3f-c7fb0815fbe7,richard82@yahoo.com,6173a9c8-81ed-476f-97d1-6927a13e5190,"Myers, Wilson and Randolph",Eritrea,Tier 2,1,1,1,1
+C056,ad4f14ee-f5f4-4801-9e55-2aa47efecb95,imcclain@vargas.info,4d2c8527-e74d-4c87-b0ad-9627edab2bab,Gonzales-Esparza,Tuvalu,Tier 2,1,1,0,0
+C015,7dfd9890-87c1-46e0-bd4a-78b3116d7f88,cherylnewton@gmail.com,7a656245-1f09-4759-b25d-5886a0238675,Snyder-Meyer,Haiti,Tier 1,1,1,1,1
+C080,f47ae018-0fa0-4e8a-aa52-48f2b8a08eb3,josephclark@hotmail.com,a406bf4c-5c59-4b14-a991-2d12e9b33287,Turner Group,Aruba,Tier 1,1,1,1,1
+C046,0abb3437-1cb2-4bff-9637-0efcfdf7fe17,valerie03@stewart.biz,40f552ca-6349-46c9-b950-6b6b8fd3b06a,Coleman Group,Timor-Leste,Tier 1,1,1,1,1
+C046,0abb3437-1cb2-4bff-9637-0efcfdf7fe17,wrightamanda@hotmail.com,93a21718-6ecb-42ee-b2a3-fd90cce134b7,Coleman Group,Timor-Leste,Tier 1,1,0,0,0
+C055,a959076d-c94c-4a8a-a65d-81148f897fa8,adam03@yahoo.com,b9f749a2-91d4-4098-a62d-6f3a0af7b617,"Brooks, Walsh and Guerra",Pitcairn Islands,Tier 3,1,0,1,1
+C008,01ca7890-a57f-4fed-8992-5905055cf7ca,umitchell@ferguson.com,5cb0d910-55c2-465b-9e60-550dbc854d70,"Lang, Dodson and Hicks",Congo,Tier 2,0,1,0,0
+C074,9a5ed449-b5a1-4244-85bb-25dcd78c36f2,sosakaren@thompson-green.biz,ae6db6ca-0906-48f5-ac6c-88c757618f31,"Mathews, Patterson and Rodriguez",Northern Mariana Islands,Tier 1,1,0,0,1
+C030,0ae5cd24-07c5-4543-ab1e-3c93f135af73,carolynwhite@cameron.com,a65f2b30-8468-48ee-a930-18dd3db7dcd6,"Wood, Daniels and Choi",Slovenia,Tier 3,0,0,0,0
+C064,821852a9-53f6-4cd8-a418-8a21830362c8,dustinarmstrong@gmail.com,a8af9884-280e-43b9-97a8-cbf569854a5b,"Freeman, Hunter and Ellison",Comoros,Tier 1,1,1,1,0
+C055,a959076d-c94c-4a8a-a65d-81148f897fa8,gblanchard@hotmail.com,2991dbb8-ebd4-4e71-9000-07dcf529797c,"Brooks, Walsh and Guerra",Pitcairn Islands,Tier 3,0,1,1,0
+C006,96dc4892-3bc1-461b-bc7b-adaa4ab3b732,agonzalez@frederick.com,16c1ca25-092f-4ef5-881e-cd6cdbb70e1a,Henderson-White,Denmark,Tier 3,0,0,0,1
+C004,bce72fdb-df64-4a5e-b316-6154cbdc7b11,andrea99@gmail.com,2a5988f5-ce05-4cb8-b885-b79637f21e61,Rose and Sons,Cocos (Keeling) Islands,Tier 1,0,1,1,0
+C095,0925602a-8b7e-4520-bfa9-3b2441d0f57c,hkim@rice.net,409c51ea-c06d-4b6e-84a6-f242057cea46,Smith Ltd,Slovenia,Tier 2,1,1,1,1
+C006,826cc578-ccab-4283-9569-1042b360df73,haileycarey@hotmail.com,325e0d03-7af6-4889-a611-1d7ea98a0b28,Henderson-White,Denmark,Tier 1,1,1,1,1
+C039,bc503c89-e335-4d41-8360-87f96bcb297f,vburgess@hotmail.com,a8335998-daed-4058-88a0-55ee7e81cfac,Patel-Chen,South Georgia and the South Sandwich Islands,Tier 2,1,1,0,0
+C026,602bc573-afad-4b1a-ab3f-c7fb0815fbe7,ashley09@short.com,ab508b3d-03d3-4e74-a307-582fe0bd9953,"Myers, Wilson and Randolph",Eritrea,Tier 2,1,1,1,0
+C097,64463d76-aff6-4413-a4aa-015cbcc5d5f0,amandawalker@gmail.com,9a0f0625-0c1e-468d-90f4-bcc5548ab3e1,"Jones, Scott and Trevino",El Salvador,Tier 2,1,0,0,0
+C093,0f71f6c6-dfd5-494d-b35e-161ba160547f,owensvanessa@gmail.com,a05b5aef-ddca-4a0d-abbe-b14a9c5845d7,"Valdez, Hoffman and Hess",Bulgaria,Tier 1,1,0,1,0
+C041,7c259fb9-af37-4408-a4e8-836ac547c102,vconway@jarvis-moore.biz,e6045996-739a-49d4-a626-9af144b4b81d,Nicholson-Williams,Ghana,Tier 3,1,0,0,1
+C094,e3875eff-a731-4713-8e1a-3f77785e4884,wilsonthomas@knight-rocha.com,efe58d3b-334a-478d-80ac-345d1f632750,Davies-Robinson,Bouvet Island (Bouvetoya),Tier 1,0,0,0,0
+C045,5348a6aa-a7cc-473f-95a0-f36396d4e4dc,isaac55@wilson.com,a67cbb06-5040-4be2-b23b-ab3702e9604e,"Grant, Garrett and Jimenez",Turks and Caicos Islands,Tier 3,1,0,0,0
+C035,20a41547-160f-4706-a540-5d0e41d7acf1,esmith@hotmail.com,ca77defe-ed49-4210-abe7-94b23563f155,Martin and Sons,Burkina Faso,Tier 1,0,1,1,1
+C029,9dd33db3-4aaf-4882-a83f-c11a3a72419c,vsandoval@winters-franklin.biz,a1772ae5-cc7d-42de-a5a4-500e6993c4ae,"Smith, Kidd and Roberts",Martinique,Tier 3,0,0,0,1
+C060,be4ce1ec-8cda-425c-a1a6-0aef01ccb058,wrightamy@erickson-newton.com,1b10223a-0f0a-4fb8-9580-69d5fc130f96,"Vasquez, Morris and Sanders",Solomon Islands,Tier 2,0,1,1,0
+C052,5222cfcf-4599-4e75-b6fb-b1cfac63e55e,williamcurtis@gonzales.com,a1bd714b-357a-4b93-b067-12e2ab5bcdbf,"Small, Powers and Wright",Barbados,Tier 1,1,1,1,1
+C083,fb3db485-25ca-402a-9036-532b4adefd9e,davidsonjessica@parker.org,6d8b6c18-5d59-4a35-8de5-a018b8a66069,"Ramos, Thomas and Jackson",Saint Martin,Tier 2,0,0,1,0
+C019,03632f86-613f-4278-992f-826c66728261,byrdlarry@preston-wolfe.net,f0b293ef-874c-4666-a31d-c9439ca59de5,Tucker LLC,Andorra,Tier 2,0,1,0,0
+C097,fb20c4d6-ec94-4efa-8b0b-f21a16109a21,patricia88@ward.com,fe307f18-44fa-472a-8a2b-a592c3b05eb5,"Jones, Scott and Trevino",El Salvador,Tier 2,1,1,1,0
+C094,d4c5cdbf-242c-4438-9ea3-c4dec7d1a289,andrea54@ball-gibbs.com,84c5fd70-95a8-4444-9268-69f1f4a38d68,Davies-Robinson,Bouvet Island (Bouvetoya),Tier 2,0,1,0,0
+C040,48c58899-6564-4efe-ab0e-f8811503fff3,tcollins@hotmail.com,7650164c-78fa-4e98-aeb1-ff8b5a7bd730,Fry Ltd,Greece,Tier 1,1,1,1,1
+C029,9dd33db3-4aaf-4882-a83f-c11a3a72419c,ronald87@yahoo.com,d328b6eb-f9f8-4748-8d40-2fdf8c2a8197,"Smith, Kidd and Roberts",Martinique,Tier 3,0,0,0,0
+C042,769e1175-0d37-416c-b6b9-c7c859334777,lopezemily@lowe.com,7b979517-f030-4cd6-97ec-64b4ae3ebb8b,Jarvis-Ingram,Suriname,Tier 2,1,1,1,1
+C002,17e62271-3825-47a3-bf0c-e3577ce462d1,leerichard@maxwell.net,c797dd63-c99e-40d3-904d-89cf781674ba,Ponce PLC,Zambia,Tier 1,0,1,0,0
+C066,7b82cf13-0561-4eed-95a2-5ab7ed4b53c8,michelle19@berger.org,425744d7-f78c-4f63-9b26-c265c9657e27,"Gonzalez, Benton and Thompson",Uruguay,Tier 3,1,1,1,1
+C035,1bfda3e3-42e3-4677-b861-9efe3f9d009b,courtney64@wong.com,e5610970-0aa4-4a92-b5bf-7e6f7347eb24,Martin and Sons,Burkina Faso,Tier 2,1,1,1,0
+C026,b0d3f6a8-218a-4bb6-ad3c-1207afc967e2,denise86@hotmail.com,2bbf9680-b2b7-4db3-8f9a-780188d594e2,"Myers, Wilson and Randolph",Eritrea,Tier 3,1,1,1,1
+C002,474eb232-bf9b-4c73-bdf3-432bf97fdbf0,thomasbrown@hotmail.com,282a65d0-c1da-486a-a7f0-9116288fb855,Ponce PLC,Zambia,Tier 3,1,1,1,0
+C068,940d7c8a-55ef-4249-b8cc-4a9bf6e9c190,david55@michael.com,1da4f429-c35a-42a9-980e-9e174d68a6a7,Hebert-Green,Solomon Islands,Tier 1,1,1,0,1
+C098,ed200278-bbc0-4130-bcea-778ee37910a1,mahoneyjeffrey@hotmail.com,8a27e037-048f-4c8c-b3c6-4d271b6149c1,Day Inc,Niger,Tier 3,1,1,0,0
+C098,ed200278-bbc0-4130-bcea-778ee37910a1,danielmitchell@gross-morales.net,711e3f2c-2459-4351-bc36-11a6c24da15f,Day Inc,Niger,Tier 3,0,1,0,0
+C016,a322d721-ad89-46ad-920c-36697359f975,robert43@martin.org,0c6eb8a6-37ee-4d29-90ee-ba8d7d032014,"Cain, Mills and Wilkinson",United States Virgin Islands,Tier 3,1,1,0,1
+C100,b8e31b8c-a794-467c-b170-b50b71efd8cf,tiffanybryant@rivera.biz,6a56f1e4-382c-4c69-86ec-4359b7f57078,Pratt Group,Cocos (Keeling) Islands,Tier 3,1,1,1,1
+C036,d2881294-1960-42b3-8e0e-e429396409a8,larry98@gmail.com,00dfd52b-8982-4b1e-a921-91e5e5c75d08,Dudley-Rowland,Slovenia,Tier 1,1,1,0,1
+C068,46443c4f-e000-45ec-8dca-e7dcd604c85b,malikhicks@yahoo.com,95bc6858-bf9a-48c2-b16d-fc81af2f225f,Hebert-Green,Solomon Islands,Tier 3,0,0,0,1
+C013,75a81885-34a2-40b7-a663-7d6f4e234775,hsmith@mcdonald.net,42546362-9a32-40bc-b26c-1cfb9bcef609,"Mcmahon, Cabrera and Perez",Oman,Tier 3,1,0,0,0
+C079,201696ee-7aae-419d-8d94-019529d0e78b,jamesrichards@thornton.info,71726553-31c1-48c2-98ef-b3336bc7f70b,Morrison-Estrada,Portugal,Tier 3,0,1,0,1
+C098,d116d805-94c5-4e74-ac57-a4039c02b9dd,smithmadison@schmidt-carlson.com,42a1e8ec-93e8-40dd-a038-bca47a967a01,Day Inc,Niger,Tier 1,1,1,0,0
+C022,14b0c0c6-c214-497f-a858-5bca8caaa8c3,tiffany85@cox-vazquez.com,ef1ce0a8-047a-4a74-843f-673bb27e72b2,"Oliver, Adams and Johnson",Tajikistan,Tier 3,1,1,0,1
+C063,926706a2-d1d6-4beb-9ce2-2a60b50624a0,mariah20@manning.com,07c8fea1-3d32-4d40-a6f1-7bc4d09b4258,Phillips PLC,New Caledonia,Tier 2,0,0,0,1
+C095,0925602a-8b7e-4520-bfa9-3b2441d0f57c,karenwood@gmail.com,df87cd22-0feb-477d-84a8-3614651145bf,Smith Ltd,Slovenia,Tier 2,1,0,1,0
+C004,bce72fdb-df64-4a5e-b316-6154cbdc7b11,kristenjoyce@gmail.com,025bd375-ada5-4c7a-b898-4a7c141395d2,Rose and Sons,Cocos (Keeling) Islands,Tier 1,0,0,0,0
+C022,d4114989-b029-40ba-9819-8be21f47dd26,brett83@yahoo.com,6ad2467e-b227-4317-8133-e1c4b2e0e550,"Oliver, Adams and Johnson",Tajikistan,Tier 1,1,0,0,0
+C013,425668c8-a339-4e31-bcb8-1052b0876df0,oconnelljames@yahoo.com,e9ef429a-4d8c-47a8-9ad6-d0874e384553,"Mcmahon, Cabrera and Perez",Oman,Tier 1,1,0,1,1
+C060,be4ce1ec-8cda-425c-a1a6-0aef01ccb058,velasqueznicole@chapman-williams.biz,d4291411-f526-4749-8927-498dd65b392a,"Vasquez, Morris and Sanders",Solomon Islands,Tier 2,1,1,0,1
+C008,01ca7890-a57f-4fed-8992-5905055cf7ca,crawfordyesenia@hotmail.com,640b941e-a44f-484c-9efc-072f6dc19434,"Lang, Dodson and Hicks",Congo,Tier 2,0,0,1,1
+C031,d9169632-7210-4620-8620-e4a99b0e4617,matthewgarrett@yahoo.com,aeddf32d-a68d-4150-b0a9-f5f3e289c87c,Gonzalez-Boyle,Ghana,Tier 1,1,1,1,0
+C022,e7c2af1e-c7e2-465f-b9c2-d7b50875a73c,brittney11@yahoo.com,ee223c0c-033d-4b71-96f4-843a5e94231e,"Oliver, Adams and Johnson",Tajikistan,Tier 2,0,0,1,0
+C024,9efec0df-69e9-4298-afe4-36434e136126,gadkins@yahoo.com,e56b7feb-cf64-48da-aebc-9b61230bbedc,"Soto, Smith and Burns",El Salvador,Tier 3,0,1,0,0
+C008,01ca7890-a57f-4fed-8992-5905055cf7ca,sarahvazquez@drake-boone.com,5cffaedc-53d7-4422-a512-ab42f2153b08,"Lang, Dodson and Hicks",Congo,Tier 2,1,0,0,0
+C077,55613c88-3856-431c-ac8e-1b8b70a1a877,yanghannah@yahoo.com,d65eb812-6d26-42d6-9505-88488b4f45a2,Bowman-Mullins,Botswana,Tier 1,0,0,0,0
+C088,cb24c3da-2680-43bb-8344-b8c0ab8875b3,fuentesstephanie@gomez.biz,0ceaacb2-ad75-48da-b43c-ca10e6bf4a76,Sanders Group,Niger,Tier 3,0,1,1,1
+C027,6223615f-1d59-44d8-b05e-8bc7034bd439,stefanie78@york.com,5cb0bd11-5af3-472a-b03c-ec752d2ae715,Bishop PLC,Micronesia,Tier 3,1,1,1,1
+C031,d9169632-7210-4620-8620-e4a99b0e4617,waltonphilip@williams-flores.com,f61d1da3-7b3a-4855-b87d-6eec95cd12bc,Gonzalez-Boyle,Ghana,Tier 1,0,0,1,1
+C078,4351727c-f2d0-4c36-b995-c874ba305c98,shepardanthony@cox.biz,9670feeb-396b-4662-9d01-fe45c38c8c06,Arnold-Vargas,Saint Barthelemy,Tier 2,1,1,1,0
+C002,17e62271-3825-47a3-bf0c-e3577ce462d1,zcowan@yahoo.com,0fa4ef43-6c5b-4275-abd4-73ebeded8993,Ponce PLC,Zambia,Tier 1,1,1,0,1
+C073,a1b0b403-8d68-4b4e-9e26-eeaa5112de63,torresangela@gonzalez-johnson.com,30897d92-f842-43c2-a144-5e11c60ad9e3,"Williams, Perez and Delgado",Congo,Tier 1,0,1,1,0
+C039,bc503c89-e335-4d41-8360-87f96bcb297f,fsutton@yahoo.com,1417186b-117d-44a8-9877-6a80f5b10264,Patel-Chen,South Georgia and the South Sandwich Islands,Tier 2,0,0,1,0
+C048,60db4741-435b-485e-aead-024b3fab400a,baileyjoseph@gmail.com,d5ebd900-967c-41b5-989a-15e84a860d75,Thomas-Taylor,Cote d'Ivoire,Tier 2,0,0,1,0
+C040,cef6b943-29bd-48d7-baf3-b5dabef10ad7,kristinbarker@stone.net,b11c451f-3ca4-4d66-b32b-da1578ab1def,Fry Ltd,Greece,Tier 3,0,0,0,0
+C027,6223615f-1d59-44d8-b05e-8bc7034bd439,nguyenmonica@wolfe-thomas.biz,488b28ea-cf21-479f-a27d-1b43b1b9718e,Bishop PLC,Micronesia,Tier 3,1,1,1,1
+C074,649d2ebb-bda1-4f09-a2a4-bea41acf2d30,deanmichelle@gmail.com,3e830764-8d40-45af-b970-87c3c38c13b3,"Mathews, Patterson and Rodriguez",Northern Mariana Islands,Tier 1,1,1,1,1
+C097,488daa3c-101f-40a4-91a5-31ccf4e03dcf,vincentgomez@lewis.org,f0637b08-5379-4c03-932a-42eaaa35e545,"Jones, Scott and Trevino",El Salvador,Tier 1,1,1,1,1
+C065,2bbff622-f8db-4f68-9c5d-8887b6c426af,zcarrillo@poole.org,318342e5-69a6-4a20-a9d1-6f3bb8711c43,"Davis, Foster and Gomez",French Southern Territories,Tier 2,0,0,1,0
+C081,ea5f5d2b-43fb-47fc-b3d4-c2aa424e6643,sonyabaldwin@may-scott.biz,185d3cea-f7a3-4e4c-98c3-2a1b04eb1574,Burke-May,Jamaica,Tier 1,1,0,0,0
+C073,6c15bfb5-3920-4d63-82ea-4f84f747f9e5,nburke@lopez.com,e6215077-edf0-4576-91ae-026c95143007,"Williams, Perez and Delgado",Congo,Tier 2,0,1,1,1
+C001,f5f35df1-d36d-4209-9275-5083585f6690,wdavis@gmail.com,1abdda60-e82d-446e-9cdc-3e2a3bb0a25a,Harrington Group,Malawi,Tier 3,0,0,1,1
+C049,03d92e40-9c26-4267-8166-072017c0fad1,jessicamorrow@hotmail.com,fa84cdff-4050-4b77-88d1-b59fa8341d97,Thomas Ltd,Madagascar,Tier 1,1,1,1,1
+C019,03632f86-613f-4278-992f-826c66728261,gromero@yahoo.com,952c6ae1-4862-432e-a753-21608b10def9,Tucker LLC,Andorra,Tier 2,0,0,1,0
+C041,c1d9a661-4a0d-45e9-8688-1603c630c97a,briana03@yahoo.com,3d952557-9576-44c4-999a-f25606d2ad1c,Nicholson-Williams,Ghana,Tier 3,0,1,1,0
+C028,a0f67fe4-ca44-467a-b26d-fe2ef187a2b9,burtongeorge@jones.biz,e646159c-972b-4df6-9b79-6a88f7dc35e0,Cross-Maldonado,Greece,Tier 3,0,1,1,1
+C044,eb1edd05-ebbd-4050-90a5-4f1474897bda,kellydavis@browning.com,6f7b0c22-138f-48f9-bb5f-b3800eff8211,Gonzales-Stewart,Finland,Tier 1,1,1,0,1
+C074,10e4ac52-9b3d-44f3-8070-167ca5977128,melissa82@gmail.com,4607c9cb-c95c-41c2-84ee-d656931aa069,"Mathews, Patterson and Rodriguez",Northern Mariana Islands,Tier 2,0,1,0,0
+C054,7d1bae36-b3ee-48e8-a8d8-012e8c8413a6,salazarcynthia@miller-miller.info,2f063362-16db-40d6-8293-ed15fa99df6b,"Hale, Duke and Young",Western Sahara,Tier 1,0,1,0,1
+C086,ae634ac4-c785-4c13-92b8-7aeca8fe9b01,melinda48@hotmail.com,29a60181-a218-43d9-adf4-04cfa68c2031,"Griffin, Taylor and Page",Burkina Faso,Tier 3,0,1,0,0
+C081,ea5f5d2b-43fb-47fc-b3d4-c2aa424e6643,anthonygarcia@yahoo.com,b56ae30c-3e1f-42f8-83e1-e1f2b3528716,Burke-May,Jamaica,Tier 1,0,0,1,1
+C099,c47d08bd-f023-4a57-ae71-a3c55da557df,eedwards@gmail.com,68e3d9d9-49cc-4aca-be79-c75a172027b7,Jimenez-Horne,Botswana,Tier 2,1,1,0,1
+C015,7dfd9890-87c1-46e0-bd4a-78b3116d7f88,livingstondale@gmail.com,be1eec60-72d5-4e27-9a0d-3613ed480502,Snyder-Meyer,Haiti,Tier 1,0,0,0,1
+C098,ed200278-bbc0-4130-bcea-778ee37910a1,wellspeter@murphy.com,1dcedde8-51b9-4379-a09a-9001ea0e64b0,Day Inc,Niger,Tier 3,0,1,1,1
+C046,b47fe280-9b01-45b7-8e94-08dbe8288821,nancycoleman@hotmail.com,87034c47-4df8-4642-badc-374de70c69b1,Coleman Group,Timor-Leste,Tier 1,1,0,0,0
+C025,7017d78b-b971-41d1-8291-0b934c440644,kelleynathaniel@schneider.org,62b566b2-4404-414a-b9a5-c32eb4c38fba,"Chambers, Novak and Baker",Malta,Tier 3,1,1,1,1
+C038,bee683af-b4bd-4fff-8a0d-d6f817dd269c,elizabethwade@hotmail.com,111c20ae-0579-4602-b0ef-7c9a9ebc1013,Mckay-Khan,Guam,Tier 2,0,0,1,0
+C082,8407d6c4-b4c4-4a38-938e-b17842b6db78,austin58@stevenson.com,6c7543cb-26e8-43b9-a970-8effcd7e4014,Shaw Ltd,Japan,Tier 3,0,0,0,1
+C064,894322be-f40a-40e0-a61d-345f7d2b49c8,josephjones@gmail.com,05ca0b49-f240-4907-8de6-b4df2e1a986c,"Freeman, Hunter and Ellison",Comoros,Tier 1,1,1,1,1
+C035,1bfda3e3-42e3-4677-b861-9efe3f9d009b,rmartin@yahoo.com,62c21447-c894-4b97-b0ab-21def43f6148,Martin and Sons,Burkina Faso,Tier 2,1,1,1,1
+C064,894322be-f40a-40e0-a61d-345f7d2b49c8,jakewalker@chavez-wilson.com,0cb5de8e-b0bc-4557-b503-888f75b90bf8,"Freeman, Hunter and Ellison",Comoros,Tier 1,0,1,0,1
+C028,0b233033-6267-4051-b804-17c31cd936a2,sullivankeith@yahoo.com,0460d832-1fa4-4c22-ba05-f06df90712ec,Cross-Maldonado,Greece,Tier 3,1,1,1,0
+C090,65db83b9-73aa-4022-a955-41ece71b0fe3,smithchristina@mclaughlin.com,2777f878-7238-43ed-94bf-2b51b9cea503,"Smith, Thomas and Anderson",Zimbabwe,Tier 1,0,0,0,0
+C011,0e590de8-7355-41a9-90bc-c4b342367922,nguyenstephanie@sims.com,3b714b8f-edf1-46a0-9124-f9373cfa6e88,Price-Booker,Taiwan,Tier 1,0,1,1,1
+C027,ca8694c8-42bf-4b74-9cb9-3c88a36af2bc,sophia58@garcia.info,d1008eab-f865-4089-9f4c-92dca46c2376,Bishop PLC,Micronesia,Tier 1,1,1,1,1
+C032,e44e65c5-3227-4c62-98b4-079435879902,anna18@adams-andrews.com,2e761bfe-2dfe-42b8-9f94-5a963bbcefd9,Gray Inc,Zimbabwe,Tier 1,1,1,1,0
+C072,e210da84-996d-4067-8695-1e0439636baf,ucross@kirk-church.com,cd2ba321-ceec-4ce4-b244-59709c43036a,Olson-Lamb,Bhutan,Tier 1,1,0,1,0
+C001,2976e4bb-5453-47b4-bb22-1c75335a8d81,waltonkelsey@williams.com,0b850c85-50d7-4ccd-9066-5750b92cbf93,Harrington Group,Malawi,Tier 3,0,1,0,1
+C088,cb24c3da-2680-43bb-8344-b8c0ab8875b3,nicole01@hernandez-zuniga.com,32bc5c9b-6858-4c9d-942e-1a1d2101b0ff,Sanders Group,Niger,Tier 3,1,0,1,0
+C041,7c259fb9-af37-4408-a4e8-836ac547c102,nchoi@hotmail.com,fe929031-fc21-4d7f-9ef3-9dc6c569afcc,Nicholson-Williams,Ghana,Tier 3,0,0,0,0
+C001,2976e4bb-5453-47b4-bb22-1c75335a8d81,harveyadrian@gardner.com,cf0328dd-7185-4faf-bc3d-410918328e30,Harrington Group,Malawi,Tier 3,1,1,1,1
+C068,46443c4f-e000-45ec-8dca-e7dcd604c85b,ericryan@lee.biz,a2685c5d-eeb1-4153-b924-e7c6dffa2227,Hebert-Green,Solomon Islands,Tier 3,1,1,1,1
+C055,a959076d-c94c-4a8a-a65d-81148f897fa8,maurice57@yahoo.com,32837ee9-3eba-4046-9551-ab38643ab22b,"Brooks, Walsh and Guerra",Pitcairn Islands,Tier 3,1,1,0,1
+C014,3ec09cbc-7781-4bac-95d3-5c6a9ff3ad6a,sheilavang@schwartz.com,8bdaf615-ad7f-4909-a348-9450b7e723ac,Lopez Ltd,Cambodia,Tier 1,1,1,1,1
+C018,583d17e7-c6f3-4f53-af29-fb44ebe3d622,grahamluke@gmail.com,7ef1cc53-3cd3-4643-91b7-529e8da90d0a,Jones-Hall,Kenya,Tier 3,1,1,1,0
+C097,64463d76-aff6-4413-a4aa-015cbcc5d5f0,marshrobin@whitney.net,11f0f295-149c-43e2-94af-5626283be7b4,"Jones, Scott and Trevino",El Salvador,Tier 2,0,1,1,0
+C091,d1a9bd32-2e50-49ea-abfe-75c572adb9fe,castillosteven@yahoo.com,447ab36f-5d43-4fb0-9b1d-ff9491c65958,Dudley-Silva,Malaysia,Tier 3,1,0,0,0
+C006,d64fff71-3da4-430b-8b9f-aa0904e5c2e4,jonesjennifer@scott.com,e6907120-6279-47dd-b6b4-94d45ace2b5b,Henderson-White,Denmark,Tier 1,0,0,0,1
+C022,14b0c0c6-c214-497f-a858-5bca8caaa8c3,wellslaura@vance-sullivan.com,5025a671-77df-49f0-b0ba-0dee4fe9752f,"Oliver, Adams and Johnson",Tajikistan,Tier 3,1,1,1,1
+C024,577043c0-b6d6-4a2a-86a0-ce3cc68ddaeb,mathismercedes@parker-ramirez.com,13e06f25-330e-48ec-8fc4-d4b6cfc0ccdb,"Soto, Smith and Burns",El Salvador,Tier 3,1,1,1,1
+C025,5f561582-917b-478f-aa3e-b6242ff41f33,brendabrown@hotmail.com,42296267-e16f-4814-8000-2aee726a9c7d,"Chambers, Novak and Baker",Malta,Tier 3,1,1,1,1
+C070,bcd9e370-e534-47db-805f-51714a57d338,joycewatkins@garcia-evans.com,e3d7701f-8b3f-4eb6-9c0d-c5bdf654063a,Robbins-Flores,United States Minor Outlying Islands,Tier 1,1,1,1,1
+C078,d7896fa8-be84-43c9-8577-c227a51a092f,rogerspatrick@gmail.com,5e30d42b-7b5f-4369-9b8f-c79d99717c41,Arnold-Vargas,Saint Barthelemy,Tier 2,1,1,1,1
+C020,6986d1c4-b539-49b9-bd7f-567525dca08f,james75@kelly-rose.net,79b3a936-3907-47f7-aa58-190b7840e5e2,"Neal, Robinson and Cox",Niger,Tier 3,0,1,0,0
+C055,81ec636f-cf9a-4c27-b6db-8761917c9421,tinabrown@hotmail.com,07158c2e-d682-4b5c-80a1-55b533ac5dec,"Brooks, Walsh and Guerra",Pitcairn Islands,Tier 2,0,0,1,1
+C027,ca8694c8-42bf-4b74-9cb9-3c88a36af2bc,oowens@yahoo.com,455cc7f7-6396-40b3-96d4-59dc5d5d1df8,Bishop PLC,Micronesia,Tier 1,1,1,0,1
+C078,4351727c-f2d0-4c36-b995-c874ba305c98,michael94@yahoo.com,bc58b715-c98e-47b9-a799-7810b46944a3,Arnold-Vargas,Saint Barthelemy,Tier 2,1,0,0,0
+C098,d116d805-94c5-4e74-ac57-a4039c02b9dd,derrick08@gmail.com,13526bb9-d576-47f9-8d52-8491afae109a,Day Inc,Niger,Tier 1,0,1,0,0
+C005,229da96d-9da7-48e6-819d-19e7c476eaf3,timothygreene@gmail.com,f794e49a-d49f-44ad-bb68-c9ff87a23662,"Roth, Riley and Martinez",Angola,Tier 2,1,1,1,1
+C052,ba59ceab-bc2b-4946-8ffb-8a0e1b8a8fad,rebecca25@vaughn-lopez.com,49b79009-2db4-4b14-ba88-0de849a67ca5,"Small, Powers and Wright",Barbados,Tier 1,1,1,1,1
+C097,488daa3c-101f-40a4-91a5-31ccf4e03dcf,uwilliams@wilson.com,f96d7db9-08ab-4eaa-b40f-73f3f6933e6e,"Jones, Scott and Trevino",El Salvador,Tier 1,1,1,1,1
+C070,bcd9e370-e534-47db-805f-51714a57d338,pbruce@clark.com,7690c079-f10b-43ab-bcec-efa9e70ceb61,Robbins-Flores,United States Minor Outlying Islands,Tier 1,1,0,0,1
+C091,d1a9bd32-2e50-49ea-abfe-75c572adb9fe,cdouglas@hotmail.com,a5da9064-50dd-4540-9971-926dbe212253,Dudley-Silva,Malaysia,Tier 3,1,1,1,1
+C011,0e590de8-7355-41a9-90bc-c4b342367922,katherineconrad@schmitt.info,9c90a556-7687-47f8-ab86-a450eb20c76c,Price-Booker,Taiwan,Tier 1,0,1,0,0
+C100,7abbb931-a456-4b63-bf28-d4580edd009c,jordanthompson@hotmail.com,7dcd1900-fdd7-4824-bc04-e75f6f586b68,Pratt Group,Cocos (Keeling) Islands,Tier 2,1,0,0,1
+C097,64463d76-aff6-4413-a4aa-015cbcc5d5f0,michael17@nixon.biz,2358096c-f089-423e-a70c-f674ea43d4e9,"Jones, Scott and Trevino",El Salvador,Tier 2,1,0,0,1
+C098,ed200278-bbc0-4130-bcea-778ee37910a1,moonbradley@peters.net,09960bc8-376f-4f28-a849-6186535c1d1c,Day Inc,Niger,Tier 3,1,0,1,0
+C069,61236293-bcf2-4ac9-bde1-be9b0231bacb,richard63@contreras-castaneda.biz,c5b85ce0-60d2-461e-8999-f754562002b2,Perez LLC,Botswana,Tier 3,1,0,1,1
+C068,940d7c8a-55ef-4249-b8cc-4a9bf6e9c190,melissa27@yahoo.com,bb1d075a-1e02-4eb2-b900-7e28d5e2a4fd,Hebert-Green,Solomon Islands,Tier 1,0,0,1,0
+C050,6da8d912-da54-4760-8780-08a6f183614c,bowmanamber@hall.com,e373392c-183e-479a-8cb7-d7f06d0b09e6,Price and Sons,Liberia,Tier 2,1,0,1,1
+C016,dd3e1f34-5346-4512-a49f-d4ec1feca19a,jay87@gmail.com,c5e2637f-f2e1-4dc6-b399-488371ad221d,"Cain, Mills and Wilkinson",United States Virgin Islands,Tier 3,0,1,1,1
+C022,e7c2af1e-c7e2-465f-b9c2-d7b50875a73c,kevinriley@baker.com,0e7ed1c0-6be2-4ec7-a17b-e1b552df0088,"Oliver, Adams and Johnson",Tajikistan,Tier 2,1,1,1,1
+C079,201696ee-7aae-419d-8d94-019529d0e78b,kingjasmine@yahoo.com,da68ce91-9842-4bd7-b9ca-3530eaf8479a,Morrison-Estrada,Portugal,Tier 3,1,0,0,1
+C007,3ebe1050-421f-4baf-b370-09d4c8343c94,brian18@ferguson.info,63e2fdaf-18c3-4d67-8c46-adac8012901d,Powell Inc,Slovenia,Tier 1,1,0,1,1
+C079,201696ee-7aae-419d-8d94-019529d0e78b,stephengarcia@lowery.com,5c75a904-7aea-4394-8da4-67009b5086d6,Morrison-Estrada,Portugal,Tier 3,0,1,1,1
+C038,5da8ce8e-89da-49a0-8267-839352b20dc2,michael80@lucas.com,200226f1-8f97-4b76-8635-10fbce4c2bae,Mckay-Khan,Guam,Tier 1,1,0,0,0
+C024,577043c0-b6d6-4a2a-86a0-ce3cc68ddaeb,michelle57@hotmail.com,e6e7fac5-221b-410d-b963-1004d233b85e,"Soto, Smith and Burns",El Salvador,Tier 3,1,1,0,1
+C070,c2a2a566-888c-4d2c-9651-b32aede1585f,craig87@yahoo.com,16c7402b-b5fe-470c-8824-77b35010badc,Robbins-Flores,United States Minor Outlying Islands,Tier 2,0,1,1,0
+C038,5da8ce8e-89da-49a0-8267-839352b20dc2,ifrench@yahoo.com,f2a2f02a-7fcc-4abe-8e82-25f5f558b6d4,Mckay-Khan,Guam,Tier 1,1,1,1,0
+C059,2cfd0f00-f702-4075-8276-dfb7dec161ef,nmartin@parks.com,d646abf5-a883-46e7-9fae-9b5ef31b7be3,Williams PLC,Netherlands Antilles,Tier 1,0,1,1,1
+C018,73e1264d-93e5-4c53-a8da-7430cccfd8a1,johnsullivan@smith-gonzalez.com,b3564662-9fb4-4e82-9cc9-8f915c383168,Jones-Hall,Kenya,Tier 1,1,0,1,0
+C010,615fbbcd-2f99-41f8-af29-9a5293bae087,christopher48@watson.net,9baa170b-6900-46a1-b6ea-10196cf02d99,Montgomery-Taylor,Montenegro,Tier 1,1,1,1,1
+C078,4351727c-f2d0-4c36-b995-c874ba305c98,craig69@yahoo.com,e5aecfa0-fc66-4dee-a0d1-98edb351763a,Arnold-Vargas,Saint Barthelemy,Tier 2,1,1,1,1
+C006,d64fff71-3da4-430b-8b9f-aa0904e5c2e4,michelle09@whitney-webb.com,c58e1b79-7b79-4004-ae75-6339431019d9,Henderson-White,Denmark,Tier 1,0,0,0,0
+C063,926706a2-d1d6-4beb-9ce2-2a60b50624a0,ndavidson@yahoo.com,f74f7844-0e7f-4b23-9092-055a5f04f6a1,Phillips PLC,New Caledonia,Tier 2,0,0,0,1
+C053,350d2d8d-0693-4886-935d-f4bcf04ff3fd,gcross@young.com,77360270-0955-4a69-97f4-eb8388cee4d4,Webb PLC,Canada,Tier 2,1,1,1,1
+C039,ac8fba4d-8865-45f6-b628-0328d101acef,tylertran@moses.com,acf2012f-2435-4b44-abcc-06bce662b129,Patel-Chen,South Georgia and the South Sandwich Islands,Tier 1,1,1,1,0
+C046,0abb3437-1cb2-4bff-9637-0efcfdf7fe17,joneslaura@hotmail.com,8919d653-3fbe-4489-9aa3-76626d14a2a9,Coleman Group,Timor-Leste,Tier 1,1,1,1,0
+C065,2bbff622-f8db-4f68-9c5d-8887b6c426af,michael95@carter.net,8161fe32-4a0f-42cf-afe9-81b4d96a5eed,"Davis, Foster and Gomez",French Southern Territories,Tier 2,0,1,0,1
+C002,603654ec-46f4-42a4-8520-311ccf962f38,tammydyer@yahoo.com,89b10a66-ee2d-478e-b403-a623df89081e,Ponce PLC,Zambia,Tier 2,0,1,1,0
+C064,f37d4b0d-c243-4db3-92dd-486251ec56a9,diana44@hotmail.com,7ed4d8fb-70ca-42ca-afaf-e6ca98349385,"Freeman, Hunter and Ellison",Comoros,Tier 2,0,0,0,1
+C092,80521baa-be5f-4ec2-a54f-5a3ff7884b3d,richardbrown@hotmail.com,f9acb13f-68a6-4d88-8b25-266ff7f85673,Roberson and Sons,Panama,Tier 3,0,1,1,0
+C017,10696440-f4c8-44fe-9363-86cbce231fae,marshallpeter@yahoo.com,6d6dac73-f809-4aff-b53e-927525adbac1,"Davies, Holt and Todd",Kyrgyz Republic,Tier 1,1,1,1,0
+C008,01ca7890-a57f-4fed-8992-5905055cf7ca,cfoley@ward.biz,f95427ef-f7c1-475e-ad8d-4bdd4284c2f8,"Lang, Dodson and Hicks",Congo,Tier 2,0,1,1,0
+C037,ab2335c3-ddfb-4efa-a07f-60bb4c740c7c,longtimothy@kim.net,607c1a96-f419-4f5c-b94b-83c7bd812e2f,"Nichols, Jimenez and Wells",Guyana,Tier 1,0,1,1,1
+C073,c2ac8506-00ab-4035-a057-a025ad51e2df,stevensrichard@hotmail.com,949d3bbc-efbf-42c2-ac2b-488fbcbf1f48,"Williams, Perez and Delgado",Congo,Tier 1,1,0,0,0
+C039,bc503c89-e335-4d41-8360-87f96bcb297f,shannon74@henry-floyd.com,343ab244-8e2a-4a1c-8d74-daf9a24c3325,Patel-Chen,South Georgia and the South Sandwich Islands,Tier 2,1,1,1,1
+C068,940d7c8a-55ef-4249-b8cc-4a9bf6e9c190,iarroyo@garcia-gibson.com,718214ca-fe3d-4658-958d-d02d72e57f0c,Hebert-Green,Solomon Islands,Tier 1,0,0,1,1
+C082,ed84e892-2bf9-4a76-ab3b-2a2a9c6e73eb,qsteele@gmail.com,92b44bf5-37e4-41ca-a33d-fc4969346593,Shaw Ltd,Japan,Tier 2,0,0,0,1
+C047,d596c206-a2d2-471b-8ea1-d513141265a0,krivas@long.com,aff2cf0e-3f62-4027-91ff-4096b9662701,"Pierce, Flynn and Hines",Bulgaria,Tier 1,1,0,0,0
+C048,60db4741-435b-485e-aead-024b3fab400a,jessica87@yahoo.com,464312cd-19a2-48e1-82fe-317172864e6a,Thomas-Taylor,Cote d'Ivoire,Tier 2,1,1,0,1
+C088,a9ee2a57-3398-40e2-8109-bfd2084e8925,vgray@brown-evans.com,0a3b1981-978c-475b-8c5f-205030a6997a,Sanders Group,Niger,Tier 1,1,1,1,1
+C013,75a81885-34a2-40b7-a663-7d6f4e234775,stevenschmitt@yahoo.com,530830c9-b56c-4257-a968-1e8a894d1c3c,"Mcmahon, Cabrera and Perez",Oman,Tier 3,0,1,0,0
+C063,736041de-ea9e-487a-8576-aae1ec6358bd,garcianicholas@gmail.com,42700907-3582-4f5c-85a1-2c9d60c8f3ae,Phillips PLC,New Caledonia,Tier 2,0,1,0,0
+C019,03632f86-613f-4278-992f-826c66728261,nataliegibson@brewer-rogers.biz,320e79f4-1f3d-4dd3-a407-6bc3b2a60ae0,Tucker LLC,Andorra,Tier 2,0,0,1,1
+C056,5f4037af-107d-4491-8bc3-fa153a9f172c,obrienpamela@moore.com,cdb7cfce-b318-4d50-95d2-12256f8436d6,Gonzales-Esparza,Tuvalu,Tier 3,1,1,1,0
+C001,2976e4bb-5453-47b4-bb22-1c75335a8d81,guzmanjoseph@hotmail.com,a1edbb50-1208-4095-880f-0438d261e96c,Harrington Group,Malawi,Tier 3,1,1,1,1
+C038,bee683af-b4bd-4fff-8a0d-d6f817dd269c,kayla12@hotmail.com,c08ab589-a2f2-41a3-8874-8e84a0710bc5,Mckay-Khan,Guam,Tier 2,1,1,1,0
+C016,a322d721-ad89-46ad-920c-36697359f975,mholt@frazier-gutierrez.com,1cd53c2e-923b-4ff4-b74a-ab4a928ff8b2,"Cain, Mills and Wilkinson",United States Virgin Islands,Tier 3,0,1,1,1
+C032,031b32a9-2ba0-4103-a09d-55761cd56007,knoxwilliam@yahoo.com,5a6f319c-8441-4796-901d-6c574f26ac02,Gray Inc,Zimbabwe,Tier 3,1,0,1,1
+C061,3e836a7f-0d96-49dc-95c5-bc58dc3c6d6e,kingvernon@yahoo.com,9471b2b3-97a1-40b5-a8b9-5b8754236670,Anderson PLC,Sao Tome and Principe,Tier 1,1,1,1,1
+C017,e98d5eb6-7529-436c-8355-8bee4f2ded33,ygarcia@hotmail.com,80638606-64eb-47f6-a750-af41608e75b8,"Davies, Holt and Todd",Kyrgyz Republic,Tier 3,1,0,0,1
+C005,229da96d-9da7-48e6-819d-19e7c476eaf3,parkerjennifer@gmail.com,2ee27b10-a16b-4c78-ad62-31a622970db9,"Roth, Riley and Martinez",Angola,Tier 2,0,0,1,0
+C080,f47ae018-0fa0-4e8a-aa52-48f2b8a08eb3,john27@stafford-diaz.org,684e72a4-281b-41f9-9e22-b8dfadd5aa0f,Turner Group,Aruba,Tier 1,1,1,0,0
+C050,6da8d912-da54-4760-8780-08a6f183614c,hmartinez@taylor-hood.com,c76f08a7-a56a-4a43-ac66-efd34a547302,Price and Sons,Liberia,Tier 2,0,1,0,0
+C015,dc54cd01-409e-4bec-a69b-24a9fc6820ae,tramsey@mcguire.biz,8f5b5a88-7fa5-47fe-8a5c-32d8e03bf23c,Snyder-Meyer,Haiti,Tier 3,1,1,0,0
+C055,a959076d-c94c-4a8a-a65d-81148f897fa8,umartinez@yahoo.com,c1f7bf14-f299-4483-a944-2ae8d6ea89d9,"Brooks, Walsh and Guerra",Pitcairn Islands,Tier 3,1,0,1,0
+C071,90f3eabf-c1a7-4832-b479-51118c1e3a12,kimberlyadams@moss.com,bf448ba6-bf46-4d98-bd5b-e93086e2ba12,Miller LLC,Algeria,Tier 2,0,0,1,0
+C010,8f5a2bad-2b60-42ab-a9f9-429fc6a0c516,erik15@spencer.info,55f783cd-cf04-41da-bc30-787d59119381,Montgomery-Taylor,Montenegro,Tier 2,1,1,0,1
+C060,9358a667-fa55-4f74-931e-63c334a4cd6a,burtoncolleen@brown.com,1ea44aa6-89af-4ac2-b77b-cc71f3642032,"Vasquez, Morris and Sanders",Solomon Islands,Tier 2,1,0,1,0
+C073,a1b0b403-8d68-4b4e-9e26-eeaa5112de63,iedwards@mitchell.com,23354dbe-ee09-461e-a0e2-925a16306cc8,"Williams, Perez and Delgado",Congo,Tier 1,0,0,1,1
+C002,474eb232-bf9b-4c73-bdf3-432bf97fdbf0,cervantescatherine@price.info,40294fd7-f2cd-4670-9948-69198ad17978,Ponce PLC,Zambia,Tier 3,0,0,0,0
+C001,2976e4bb-5453-47b4-bb22-1c75335a8d81,millermelanie@hotmail.com,390006bc-6023-420d-afc8-e5e7c0c590cd,Harrington Group,Malawi,Tier 3,1,0,0,0
+C006,96dc4892-3bc1-461b-bc7b-adaa4ab3b732,gayala@solis-esparza.com,c6933771-aabe-47c4-824a-a49ad6e45157,Henderson-White,Denmark,Tier 3,0,0,1,0
+C001,f435406d-ad78-407f-bcd9-ece1f62767b9,mitchelljoel@rice.info,be0901d2-1279-47e3-a872-6a6fa57c056f,Harrington Group,Malawi,Tier 1,0,1,0,0
+C053,350d2d8d-0693-4886-935d-f4bcf04ff3fd,daughertytodd@miller.com,468e66f8-2a64-4dfa-b1d8-feea0a5a8915,Webb PLC,Canada,Tier 2,0,1,0,1
+C054,195b5d50-b30a-49f0-864b-1f0b7f9afca1,charles56@gmail.com,f3c889aa-d315-4327-8b9b-748d78509a58,"Hale, Duke and Young",Western Sahara,Tier 2,1,1,0,0
+C055,b0364fda-a91f-42d6-8cda-08b901fe1c69,sherri38@gay-harris.com,33220600-c4fb-4200-a3f1-0368e364266f,"Brooks, Walsh and Guerra",Pitcairn Islands,Tier 3,1,1,1,1
+C095,0925602a-8b7e-4520-bfa9-3b2441d0f57c,deanna26@greene.com,15c4d8be-46e7-440e-874e-c939dd7577a6,Smith Ltd,Slovenia,Tier 2,0,1,1,1
+C021,7d0e2fef-7e12-4fe4-82d3-d7ad3747dd48,cherylmartinez@gmail.com,e92cdc41-ecf9-41d4-bca1-4e96d802f302,Clark-Walker,Germany,Tier 1,1,0,0,0
+C087,6d3d981c-ade6-4c58-924d-22318f06d984,lsanford@morgan.com,723f3ce2-3e63-46bc-bf0d-ff3a6338061f,Powers Group,Falkland Islands (Malvinas),Tier 1,0,1,0,0
+C032,dd66a786-23ed-4f26-9d3b-887c4cfd21be,davidcurtis@yahoo.com,1a3be9c4-89d7-4557-9cb4-6b18a0128f26,Gray Inc,Zimbabwe,Tier 3,0,1,0,0
+C067,d64cc2b0-3bca-43cc-916e-34aa74fccdfc,bwebb@hotmail.com,068cf94c-3dfc-47dd-9a8d-95807e7dea1e,Morgan-Woods,Iceland,Tier 1,1,1,1,1
+C006,826cc578-ccab-4283-9569-1042b360df73,twilson@gmail.com,c254fc07-4c74-45a4-a006-79009283ce04,Henderson-White,Denmark,Tier 1,1,1,1,1
+C044,eb1edd05-ebbd-4050-90a5-4f1474897bda,parker54@alexander-holt.org,65e4f310-79d0-4192-b618-fa36fadcc645,Gonzales-Stewart,Finland,Tier 1,0,0,0,1
+C068,46443c4f-e000-45ec-8dca-e7dcd604c85b,sparksluis@hotmail.com,3402504e-0830-438b-be1a-5ba31e3761aa,Hebert-Green,Solomon Islands,Tier 3,1,1,1,1
+C005,c08f175e-de2a-4a83-b465-d092ab22ac1b,joshua28@good.com,76770643-6fe0-42d7-8ad9-df927049d4f8,"Roth, Riley and Martinez",Angola,Tier 3,1,1,1,1
+C007,3ebe1050-421f-4baf-b370-09d4c8343c94,robertsmartin@hughes.com,6d1249cc-ae65-4ecf-8272-148cc069f58a,Powell Inc,Slovenia,Tier 1,1,0,1,1
+C002,474eb232-bf9b-4c73-bdf3-432bf97fdbf0,billybrown@hotmail.com,fd7091d0-e3a6-4596-b3ca-57743a679507,Ponce PLC,Zambia,Tier 3,0,1,0,0
+C032,031b32a9-2ba0-4103-a09d-55761cd56007,allenjessica@johnson-sanchez.com,db5fa05a-52d0-485b-9adc-d88f139b7061,Gray Inc,Zimbabwe,Tier 3,0,1,1,0
+C062,987a74bd-df5f-4445-9dc9-d82607f973bd,kendradaniels@hotmail.com,6e263313-b435-4cf3-beec-0b3893fb317e,Moreno Ltd,Korea,Tier 1,1,1,0,1
+C009,8a601a70-ff05-4fc1-a5ea-aa82a028a6e7,ureid@cain.com,cd51970e-370d-43ff-9ee5-52e6d9cdca20,Lewis PLC,Malta,Tier 3,0,0,1,1
+C036,ebf841d7-fb91-4a9a-9881-8462ce63556d,jacksonanthony@hotmail.com,993b6baf-c5a5-40c6-8cd9-796019374cba,Dudley-Rowland,Slovenia,Tier 3,1,1,1,1
+C035,20a41547-160f-4706-a540-5d0e41d7acf1,pollardronald@crawford.com,9349cfad-aab2-4d0f-8a8f-6e50dc30a4b1,Martin and Sons,Burkina Faso,Tier 1,1,1,0,0
+C039,2914a310-eef1-4130-89d0-9c23f682c484,anthony78@young-lee.com,3a70e756-81f2-4c45-a636-de39eced8127,Patel-Chen,South Georgia and the South Sandwich Islands,Tier 2,0,0,1,0
+C001,2976e4bb-5453-47b4-bb22-1c75335a8d81,heatherosborne@wheeler.com,7898ffbc-e814-468b-8378-33199cf1c88d,Harrington Group,Malawi,Tier 3,1,1,1,1
+C053,6e1d764b-10d7-4a9f-81a4-f6f3cfbe458e,ecaldwell@yahoo.com,c2005a81-8611-40a7-98db-26b97ddf86c2,Webb PLC,Canada,Tier 2,0,1,0,0
+C090,65db83b9-73aa-4022-a955-41ece71b0fe3,benitezjames@hotmail.com,d6da455e-6423-4d14-8fd2-0bde1a9a225c,"Smith, Thomas and Anderson",Zimbabwe,Tier 1,1,1,1,1
+C041,c1d9a661-4a0d-45e9-8688-1603c630c97a,vwright@rojas.net,feb67b20-da06-49bb-b353-48fae6d4e9a7,Nicholson-Williams,Ghana,Tier 3,1,0,0,0
+C028,a0f67fe4-ca44-467a-b26d-fe2ef187a2b9,harrisonscott@adams-peterson.org,f6fb614f-817c-42e9-abf9-d6d10441b17e,Cross-Maldonado,Greece,Tier 3,1,1,1,1
+C016,dd3e1f34-5346-4512-a49f-d4ec1feca19a,wagnerchristine@yahoo.com,a2d7753f-e93d-4b0b-9133-c5014f90da07,"Cain, Mills and Wilkinson",United States Virgin Islands,Tier 3,1,1,0,1
+C070,bcd9e370-e534-47db-805f-51714a57d338,anthonymontgomery@gmail.com,a5883991-6a9d-4184-a251-0f5e2f8a2c4d,Robbins-Flores,United States Minor Outlying Islands,Tier 1,1,0,1,1
+C024,9efec0df-69e9-4298-afe4-36434e136126,qduarte@yahoo.com,ed79bd99-77aa-41e9-bef8-60b384f37307,"Soto, Smith and Burns",El Salvador,Tier 3,0,1,0,1
+C055,b0364fda-a91f-42d6-8cda-08b901fe1c69,dalereed@hotmail.com,f8b1ab24-6299-4784-807c-23ec87a909d7,"Brooks, Walsh and Guerra",Pitcairn Islands,Tier 3,0,1,1,1
+C001,f5f35df1-d36d-4209-9275-5083585f6690,alexis04@yahoo.com,51f527b1-176e-456d-b1ef-97771917b437,Harrington Group,Malawi,Tier 3,1,0,0,1
