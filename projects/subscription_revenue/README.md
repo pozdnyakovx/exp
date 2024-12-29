@@ -63,7 +63,7 @@ Let's use these datasets to generate some insights about the company's state of 
 
 3. **Client Retention:**
    - What is the overall renewal rate for the company?
-   - Which subscription tier and geography have the best renewal rates?
+   - Which subscription tier and subcription price has the best renewal rates?
 
 
 To answer the above questions, I have built a [**Looker dashboard**](https://lookerstudio.google.com/reporting/58cf6d9f-25bb-4dea-ae78-fe2fecfa2d49).
