@@ -1,4 +1,4 @@
-# Welcome to my Personal Projects Repository! 👋🏼
+# Welcome to my Personal Projects Repository! 👋🏻
 
 Hi there! Thanks for dropping by. I'm Ilya.
 
