@@ -8,7 +8,6 @@ Purpose:
 from prefect import flow
 from utils.utils_gcloud import query_data, write_data
 
-from pathlib import Path
 from typing import Dict, List
 import pandas as pd
 from prefect import flow, task, get_run_logger
@@ -23,7 +22,7 @@ def query_to_df(sql_file: str) -> pd.DataFrame:
 
 
 @task
-def split_by_segments(df: pd.DataFrame) -> dict[str, pd.DataFrame]:
+def split_by_segments(df: pd.DataFrame) -> Dict[str, pd.DataFrame]:
     """
     Detect unique values in 'User Segment' (because we can introduce new segments in the future).
     Return a dict of DataFrames for each segment for later upload.
@@ -45,10 +44,10 @@ def split_by_segments(df: pd.DataFrame) -> dict[str, pd.DataFrame]:
 
 @task
 def upload_segments(
-    chunks: dict[str, pd.DataFrame],
+    chunks: Dict[str, pd.DataFrame],
     table_prefix: str,
     overwrite: bool = True,
-) -> list[str]:
+) -> List[str]:
     """
     Upload each segment DataFrame to BigQuery.
 
@@ -61,7 +60,7 @@ def upload_segments(
         List of table IDs created/updated in Google Cloud.
     """
     logger = get_run_logger() # to monitor execution
-    uploaded: list[str] = [] # placeholder for IDs
+    uploaded: List[str] = [] # placeholder for IDs
 
     for seg_name, sdf in chunks.items():
         if sdf.empty:
@@ -84,14 +83,14 @@ def segment_export_flow(
     sql_file: str = "sql/query3.sql",
     table_prefix: str = "sandbox-2-472920.user_segments",
     overwrite: bool = True,
-) -> list[str]:
+) -> List[str]:
 
     logger = get_run_logger()
     df = query_to_df(sql_file)
     logger.info(f"Fetched {len(df):,} rows from query.")
 
     chunks = split_by_segments(df)
-    logger.info(f"Detected segments: {list(chunks.keys())}")
+    logger.info(f"Detected segments: {List(chunks.keys())}")
 
     uploaded = upload_segments(chunks, table_prefix, overwrite)
     logger.info(f"Completed. Created/updated tables: {uploaded}")

@@ -86,13 +86,13 @@ daily_shoppers AS (
   FROM shopping_events se
 ),
 
--- Mark purchase-today flag (for same-day conversion suppression)
+-- mark purchase-today flag (for same-day conversion suppression)
 purchases_today AS (
   SELECT user_pseudo_id, purchase_date AS event_date, TRUE AS purchased_today
   FROM purchases
 ),
 
--- Final classification (precedence: New > Active > Dormant > Lost > Engaged_Shopper > Prospect)
+-- final classification (precedence: New > Active > Dormant > Lost > Engaged_Shopper > Prospect)
 final AS (
 SELECT
   ud.event_date,
