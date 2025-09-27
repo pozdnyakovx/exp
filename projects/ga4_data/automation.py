@@ -7,10 +7,9 @@ Purpose:
 
 from prefect import flow
 from utils.utils_gcloud import query_data, write_data
-
 from typing import Dict, List
-import pandas as pd
 from prefect import flow, task, get_run_logger
+import pandas as pd
 
 
 @task
