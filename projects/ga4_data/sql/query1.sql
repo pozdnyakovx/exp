@@ -1,3 +1,8 @@
+-- this is a query for segmentation analysis
+-- output columns: event_date, user_segment, users
+-- this query is only intended for trend analysis (aggregated user count over time)
+-- for user-level data designed for reverse ETL, please check <query3.sql>
+
 WITH
 -- read only specific events that we need
 events_of_interest AS (

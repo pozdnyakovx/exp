@@ -96,7 +96,7 @@ purchases_today AS (
   FROM purchases
 )
 
--- final classification (precedence: New > Active > Dormant > Lost > Engaged_Shopper > Prospect)
+-- final classification (precedence: New > Active > Dormant > Lost > Engaged Shopper > Prospect)
 -- we need user pseudo ids here for identity resolution and export to other platforms
 SELECT
   ud.event_date,
