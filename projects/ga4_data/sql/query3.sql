@@ -1,49 +1,61 @@
--- this is a query for a detailed user table 
--- output columns: event_date, user_pseudo_id, user_segment
--- it will be used in the automation.py script to create smaller tables for each segment and connect with activation tools
+-- detailed user table (user-day level)
+-- output: event_date, user_pseudo_id, user_segment
 
 WITH
--- read specific events (extended version with engagement events)
+-- 1) date spine for the analysis window
+date_spine AS (
+  SELECT d AS event_date
+  FROM UNNEST(GENERATE_DATE_ARRAY(DATE '2020-11-01', DATE '2021-01-31')) AS d
+),
+
+-- 2) read specific events (unbounded by date to allow lookback history for recency)
 events_of_interest AS (
   SELECT
     PARSE_DATE('%Y%m%d', e.event_date) AS event_date,
     e.event_name,
     e.user_pseudo_id,
     e.ecommerce.transaction_id AS transaction_id,
-    IFNULL(
-      e.ecommerce.purchase_revenue_in_usd,
-      0
-    ) AS transaction_volume,
+    IFNULL(e.ecommerce.purchase_revenue_in_usd, 0) AS transaction_volume,
     IFNULL(e.ecommerce.total_item_quantity, 0) AS total_qty
   FROM `sandbox-2-472920.ga4_obfuscated_sample_ecommerce2.events_*` e
-  WHERE e.event_name IN ('first_visit', 'purchase', 'page_view',
+  WHERE e.event_name IN (
+    'first_visit', 'purchase', 'page_view',
     'view_item', 'view_promotion',
     'add_to_cart', 'begin_checkout',
-    'select_promotion', 'select_item')
+    'select_promotion', 'select_item'
+  )
 ),
 
--- first visits
-first_visits AS (
-  SELECT DISTINCT user_pseudo_id, event_date
+-- 3) users that appear at least once within the analysis window
+users_in_period AS (
+  SELECT DISTINCT user_pseudo_id
+  FROM events_of_interest
+  WHERE event_date BETWEEN DATE '2020-11-01' AND DATE '2021-01-31'
+),
+
+-- 4) every user x every date in the window (full grid to ensure daily classification)
+user_days AS (
+  SELECT u.user_pseudo_id, d.event_date
+  FROM users_in_period u
+  CROSS JOIN date_spine d
+),
+
+-- 5) first visit date per user (overall)
+first_visit_per_user AS (
+  SELECT user_pseudo_id, MIN(event_date) AS first_visit_date
   FROM events_of_interest
   WHERE event_name = 'first_visit'
+  GROUP BY user_pseudo_id
 ),
 
--- purchases
+-- 6) purchases (overall)
 purchases AS (
   SELECT DISTINCT user_pseudo_id, event_date AS purchase_date
   FROM events_of_interest
   WHERE event_name = 'purchase'
 ),
 
--- page views + days
-page_view_days AS (
-  SELECT DISTINCT user_pseudo_id, event_date
-  FROM events_of_interest
-  WHERE event_name = 'page_view'
-),
-
--- shopping-intent events (but not necessarily purchased)
+-- 7) shopping-intent events (overall; used for Engaged Shopper)
 shopping_events AS (
   SELECT DISTINCT user_pseudo_id, event_date
   FROM events_of_interest
@@ -54,18 +66,7 @@ shopping_events AS (
   )
 ),
 
--- users + days
-user_days AS (
-  SELECT user_pseudo_id, event_date FROM first_visits
-  UNION DISTINCT
-  SELECT user_pseudo_id, purchase_date AS event_date FROM purchases
-  UNION DISTINCT
-  SELECT user_pseudo_id, event_date FROM page_view_days
-  UNION DISTINCT
-  SELECT user_pseudo_id, event_date FROM shopping_events
-),
-
--- last purchase on each day
+-- 8) last purchase on/before each user-day
 last_purchase_per_day AS (
   SELECT
     ud.user_pseudo_id,
@@ -78,26 +79,21 @@ last_purchase_per_day AS (
   GROUP BY ud.user_pseudo_id, ud.event_date
 ),
 
--- mark "New" customers
+-- 9) per-day flags
 daily_new AS (
-  SELECT fv.user_pseudo_id, fv.event_date, TRUE AS is_new
-  FROM first_visits fv
+  SELECT fvu.user_pseudo_id, fvu.first_visit_date AS event_date, TRUE AS is_new
+  FROM first_visit_per_user fvu
 ),
-
--- mark shopping-intent customers
 daily_shoppers AS (
   SELECT se.user_pseudo_id, se.event_date, TRUE AS shopped_today
   FROM shopping_events se
 ),
-
--- mark purchase-today flag (for same-day conversion suppression)
 purchases_today AS (
   SELECT user_pseudo_id, purchase_date AS event_date, TRUE AS purchased_today
   FROM purchases
 )
 
--- final classification (precedence: New > Active > Dormant > Lost > Engaged Shopper > Prospect)
--- we need user pseudo ids here for identity resolution and export to other platforms
+-- 10) final classification (precedence: New > Active > Dormant > Lost > Engaged Shopper > Prospect)
 SELECT
   ud.event_date,
   ud.user_pseudo_id,
@@ -125,3 +121,4 @@ LEFT JOIN daily_shoppers s
   ON s.user_pseudo_id = ud.user_pseudo_id AND s.event_date = ud.event_date
 LEFT JOIN purchases_today pt
   ON pt.user_pseudo_id = ud.user_pseudo_id AND pt.event_date = ud.event_date
+ORDER BY 1, 2;
